@@ -1,0 +1,64 @@
+AL/XK MASTER AUTO REPORT
+UTC: 2026-09-02 06:59:28
+Kandidaten: 60
+Getestete URLs: 58
+Funktionierende eindeutige Sender: 22
+
+FEHLER	TV 7 Albania	Basis	https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8: Server returned 403 Forbidden (access denied)	https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8
+OK	A2 CNN Albania	Basis	audio,data,video	https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
+FEHLER	ABC News Albania Ⓣ	Free-TV AL	https://www.twitch.tv/abcnewsal: Invalid data found when processing input 	https://www.twitch.tv/abcnewsal
+OK	AlbDreams	Basis	audio,video	http://live.albavision.net:1123/live/albdreams.m3u8
+OK	AlbKanale Music TV	Basis	audio,video	https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8
+FEHLER	Alpo TV	iptv-org AL	https://vs.sednastream.com:1936/alportv/alportv/playlist.m3u8: Server returned 403 Forbidden (access	https://vs.sednastream.com:1936/alportv/alportv/playlist.m3u8
+FEHLER	Alpo TV	Free-TV AL	[tls @ 0x55a1eaf4e540] A TLS fatal alert has been received. https://5d00db0e0fcd5.streamlock.net/723	https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+FEHLER	TV Apollon Ⓢ	Free-TV AL	https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2: Server returned 404 Not Found 	https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
+FEHLER	TV Arbëria 3 Fëmijë (720p)	iptv-org XK	https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8: Server returned 404 Not Found 	https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8
+FEHLER	TV Arbëria 4 Muzikë (720p)	iptv-org XK	https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8: Server returned 404 Not Found 	https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
+FEHLER	TV Arbëria Retro Hits (720p)	iptv-org XK	https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8: Server returned 404 Not Found 	https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
+OK	TV Arta	Basis	audio,video	https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+FEHLER	ATV (1080p)	iptv-org XK	[tcp @ 0x5598cf2cc800] Connection to tcp://5.254.89.106:80 failed: Connection timed out http://5.254	http://5.254.89.106/8709/index.m3u8
+FEHLER	Besa TV	Basis	https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/ehn-g2o-v7w-nh4/index.m3u8: Server returned 4	https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/ehn-g2o-v7w-nh4/index.m3u8
+FEHLER	CNA (1080p)	iptv-org AL	https://live1.mediadesk.al/cnatvlive.m3u8: Server returned 403 Forbidden (access denied) 	https://live1.mediadesk.al/cnatvlive.m3u8
+FEHLER	Cufo	iptv-org AL	https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=backoffice1&application	https://digitalb-live.morescreens.com/DAL_1_005/playlist.m3u8?application_id=backoffice1&application_installation_id=1&authority_instance_id=spectar-prd-digitalb&detected_delivery_method=hls&id=DAL_1_005&playlist_template=nginx&profile_id=1&ps=94d0066599d8f74d1c090e93ac4617b6491d3629d2e2d770870fcef1f7effa25b204aa53b3821da5e9e65bee8e94331bcae2cb344d0739ca3a938b4ef2051cc8&subscriber_id=1&token=142cda7d50870275a9ca7988ff001b32ab30709b&uuid=backoffice1&vh=7ab82e63aae8510c6b37ea16da502e54e441a5a1a88bce0c8ed63da99bce948d86253d64ae00424dda8b9c8b6e2cd0f6cd79d8b0a56e10759210cdf4f6761d11&video_id=12498
+OK	Dasma TV	Basis	audio,data,video	http://live.dtv-ks.com:8082/live/DTVHD.stream/playlist.m3u8
+OK	TV Dielli	Basis	audio,video	http://stream.tvdielli.com:8081/dielli/index.m3u8
+FEHLER	Elrodi TV (576p)	iptv-org AL	[tcp @ 0x5598b6329800] Connection to tcp://5.254.89.106:80 failed: Connection timed out http://5.254	http://5.254.89.106/8718/index.m3u8
+FEHLER	Euronews Albania Ⓨ	Free-TV AL	https://www.youtube.com/@EuronewsAlbania/live: Invalid data found when processing input 	https://www.youtube.com/@EuronewsAlbania/live
+FEHLER	First Channel (1080p)	iptv-org XK	[tcp @ 0x55b944f48800] Connection to tcp://5.254.89.106:80 failed: Connection timed out http://5.254	http://5.254.89.106/8717/index.m3u8
+OK	TV Johaniter (720p)	iptv-org AL	audio,video	https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8
+FEHLER	Kanali 7 Ⓢ	Free-TV AL	https://fe.tring.al/delta/105/out/u/1200_1.m3u8: Server returned 404 Not Found 	https://fe.tring.al/delta/105/out/u/1200_1.m3u8
+FEHLER	TV Klan (720p)	iptv-org AL	[tcp @ 0x555e6ac96800] Connection to tcp://5.254.89.106:80 failed: Connection timed out http://5.254	http://5.254.89.106/8704/index.m3u8
+FEHLER	Klan Kosova (720p)	iptv-org XK	[tcp @ 0x5590555e1800] Connection to tcp://5.254.89.106:80 failed: Connection timed out http://5.254	http://5.254.89.106/8706/index.m3u8
+FEHLER	Kohavision (720p)	iptv-org XK	[tcp @ 0x5638af332800] Connection to tcp://5.254.89.106:80 failed: Connection timed out http://5.254	http://5.254.89.106/8705/index.m3u8
+OK	Kohavision (KTV)	Basis	audio,video	https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/index.m3u8
+FEHLER	Max (576p)	iptv-org AL	[tcp @ 0x56381cb12800] Connection to tcp://5.254.89.106:80 failed: Connection timed out http://5.254	http://5.254.89.106:80/8882/index.m3u8
+FEHLER	My Music (576p)	iptv-org AL	[tcp @ 0x55a7638be800] Connection to tcp://5.254.89.106:80 failed: Connection timed out http://5.254	http://5.254.89.106:80/8821/index.m3u8
+OK	News 24 Albania	Basis	audio,video	https://tv.balkanweb.com/news24/livestream/playlist.m3u8
+OK	News 24 Albania (392p)	iptv-org AL	audio,video	http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
+OK	ntv (720p)	iptv-org AL	audio,video	https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
+OK	TV Opoja	Basis	audio,data,video	http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
+FEHLER	Ora News (720p)	iptv-org AL	https://live1.mediadesk.al/oranews.m3u8: Server returned 403 Forbidden (access denied) 	https://live1.mediadesk.al/oranews.m3u8
+OK	Panorama TV	iptv-org AL	audio,video	https://159.69.221.56/panorama/livestream/playlist.m3u8
+FEHLER	Panorama TV Ⓢ	Free-TV AL	[tcp @ 0x55b56d6e4900] Connection to tcp://198.244.188.94:80 failed: Connection timed out http://198	http://198.244.188.94/panorama/livestream/playlist.m3u8
+FEHLER	Report TV (720p)	iptv-org AL	[tcp @ 0x55bfdcaf8f40] Connection to tcp://deb10stream.duckdns.org:443 failed: Connection timed out 	https://deb10stream.duckdns.org/hls/stream.m3u8
+FEHLER	RTK 1 (1080p)	iptv-org XK	[tcp @ 0x560f84fde800] Connection to tcp://5.254.89.106:80 failed: Connection timed out http://5.254	http://5.254.89.106/8702/index.m3u8
+OK	RTK 3	Basis	audio,video	https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
+FEHLER	RTSH 1 (1080p)	iptv-org AL	[tcp @ 0x55de8ed91900] Connection to tcp://178.33.11.6:8696 failed: Connection timed out http://178.	http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
+FEHLER	RTSH 2 (1080p)	iptv-org AL	[tcp @ 0x557f79fb9900] Connection to tcp://178.33.11.6:8696 failed: Connection timed out http://178.	http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
+FEHLER	RTSH 24 (1080p)	iptv-org AL	[tcp @ 0x55ecea17e900] Connection to tcp://178.33.11.6:8696 failed: Connection timed out http://178.	http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
+FEHLER	RTSH Shqip (1080p)	iptv-org AL	[tcp @ 0x5581480c9900] Connection to tcp://178.33.11.6:8696 failed: Connection timed out http://178.	http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
+FEHLER	RTSH Sport (1080p)	iptv-org AL	[tcp @ 0x5584dd49d900] Connection to tcp://178.33.11.6:8696 failed: Connection timed out http://178.	http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
+OK	RTV Pendimi	Basis	audio,video	https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8
+OK	RTV21	Basis	audio,video	https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/index.m3u8
+FEHLER	Syri TV	Basis	https://stream.syritv.al/live/syritv/playlist.m3u8: Server returned 5XX Server Error reply 	https://stream.syritv.al/live/syritv/playlist.m3u8
+OK	TV Syri Kosovo	Basis	audio,video	https://gjirafa-video-live.gjirafa.net/gjvideo-live/xej-xnb-ba0-kup/index.m3u8
+OK	T7	Basis	audio,video	https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
+FEHLER	Top Channel (1080p)	iptv-org AL	[tcp @ 0x55dbea8b3800] Connection to tcp://5.254.89.106:80 failed: Connection timed out http://5.254	http://5.254.89.106/8708/index.m3u8
+FEHLER	Top News Ⓣ	Free-TV AL	https://www.twitch.tv/topnewsal: Invalid data found when processing input 	https://www.twitch.tv/topnewsal
+OK	TopEstrada TV	Basis	audio,video	http://live.topestrada.com/live/topestrada/playlist.m3u8
+FEHLER	Tring History (720p)	iptv-org AL	[tcp @ 0x5607ac6a5800] Connection to tcp://5.254.89.106:80 failed: Connection timed out http://5.254	http://5.254.89.106/8765/index.m3u8
+FEHLER	Tring Kids (576p)	iptv-org AL	[tcp @ 0x559bd4b80800] Connection to tcp://5.254.89.106:80 failed: Connection timed out http://5.254	http://5.254.89.106/8777/index.m3u8
+OK	Tropoja Televizion	Basis	audio,data,video	https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+OK	Vizion Plus	Basis	audio,video	https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
+OK	Zico TV	Basis	audio,video	https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
+FEHLER	Zjarr TV	Basis	https://zjarr.future.al/hls/playlist.m3u8: Server returned 404 Not Found 	https://zjarr.future.al/hls/playlist.m3u8
