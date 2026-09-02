@@ -67,8 +67,6 @@ http://5.254.89.106:80/8821/index.m3u8
 http://tv.balkanweb.com:8081/news24/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="OraNews.al@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Ora_News_%28Albania%29.svg/960px-Ora_News_%28Albania%29.svg.png" group-title="Albanische Sender",Ora News (720p)
 https://live1.mediadesk.al/oranews.m3u8
-#EXTINF:-1 tvg-id="PanoramaTV.al@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Panorama_logo.svg/960px-Panorama_logo.svg.png" group-title="Albanische Sender",Panorama TV
-https://159.69.221.56/panorama/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="ReportTV.al@SD" tvg-logo="https://i.imgur.com/C9lM1KP.png" group-title="Albanische Sender",Report TV (720p)
 https://deb10stream.duckdns.org/hls/stream.m3u8
 #EXTINF:-1 tvg-id="RTSH1.al@SD" tvg-logo="https://i.imgur.com/Y8wotC4.png" group-title="Albanische Sender",RTSH 1 (1080p)
@@ -139,8 +137,6 @@ http://198.244.188.94/panorama/livestream/playlist.m3u8
 https://www.twitch.tv/topnewsal
 #EXTINF:-1 tvg-name="TV Apollon" tvg-logo="https://i.imgur.com/gUz2AjM.png" tvg-id="TVApollon.al" tvg-country="AL" group-title="Albanische Sender",TV Apollon Ⓢ
 https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
-#EXTINF:-1 group-title="Albanische Sender",A Music TV
-https://albportal.net/amusic.m3u8
 #EXTINF:-1 tvg-id="RTK1.xk" group-title="Albanische Sender",RTK 1
 https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq.m3u8
 #EXTINF:-1 tvg-id="RTK2.xk" group-title="Albanische Sender",RTK 2
@@ -161,3 +157,9 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/jo8-76n-lmx-tv0/index.m3u
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/2h7-5bc-xym-0k2/index.m3u8
 #EXTINF:-1 tvg-id="TVArberia1.xk" group-title="Albanische Sender",TV Arbëria 1
 https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
+#EXTINF:-1 tvg-id="RTK1.xk" group-title="Albanische Sender",RTK 1
+https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
+#EXTINF:-1 tvg-id="RTK1.xk" group-title="Albanische Sender",RTK 1
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq1080/index.m3u8
+#EXTINF:-1 tvg-id="RTK2.xk" group-title="Albanische Sender",RTK 2
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz01080/index.m3u8
