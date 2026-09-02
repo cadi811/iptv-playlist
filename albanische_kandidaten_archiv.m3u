@@ -163,3 +163,13 @@ https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
 https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq1080/index.m3u8
 #EXTINF:-1 tvg-id="RTK2.xk" group-title="Albanische Sender",RTK 2
 https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz01080/index.m3u8
+#EXTINF:-1 tvg-id="RTK1.xk" group-title="Albanische Sender",RTK 1 Satelit
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
+#EXTINF:-1 tvg-id="RTK1.xk" group-title="Albanische Sender",RTK 1
+https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v4a1/mono.m3u8
+#EXTINF:-1 group-title="Albanische Sender",TVA News
+https://live.tvanews.com/live/tvanews/chunklist_w869460556.m3u8
+#EXTINF:-1 group-title="Albanische Sender",RTV Ahireti
+https://tv.rtvahireti.com/Ahierti/live/playlist.m3u8
+#EXTINF:-1 group-title="Albanische Sender",RTV 1
+http://video.radio1.al/hls/rtvnje/index.m3u8
