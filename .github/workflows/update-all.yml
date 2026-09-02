@@ -1,0 +1,56 @@
+name: IPTV 3 Länder Auto Repair
+
+"on":
+  workflow_dispatch: {}
+  schedule:
+    - cron: "17 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: iptv-3-laender-master
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 55
+
+    steps:
+      - name: Repository laden
+        uses: actions/checkout@v4
+
+      - name: Python 3.12 installieren
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: ffmpeg und ffprobe installieren
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ffmpeg
+
+      - name: Alle 3 Länder prüfen und reparieren
+        run: python update_all.py
+
+      - name: Ergebnisse speichern
+        run: |
+          git config user.name "iptv-3-laender-auto-bot"
+          git config user.email "actions@users.noreply.github.com"
+
+          git add \
+            IPTV_Samsung_AKTUELL.m3u \
+            albanische_sender.m3u \
+            deutsche_sender.m3u \
+            oesterreichische_sender.m3u \
+            IPTV_Automatik_Report.txt \
+            deutsche_sender_basis.m3u \
+            oesterreichische_sender_basis.m3u
+
+          if git diff --cached --quiet; then
+            echo "Keine Änderung"
+          else
+            git commit -m "Auto: IPTV AL-XK DE AT aktualisiert"
+            git push
+          fi
