@@ -139,3 +139,25 @@ http://198.244.188.94/panorama/livestream/playlist.m3u8
 https://www.twitch.tv/topnewsal
 #EXTINF:-1 tvg-name="TV Apollon" tvg-logo="https://i.imgur.com/gUz2AjM.png" tvg-id="TVApollon.al" tvg-country="AL" group-title="Albanische Sender",TV Apollon Ⓢ
 https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
+#EXTINF:-1 group-title="Albanische Sender",A Music TV
+https://albportal.net/amusic.m3u8
+#EXTINF:-1 tvg-id="RTK1.xk" group-title="Albanische Sender",RTK 1
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq.m3u8
+#EXTINF:-1 tvg-id="RTK2.xk" group-title="Albanische Sender",RTK 2
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz0.m3u8
+#EXTINF:-1 tvg-id="RTK4.xk" group-title="Albanische Sender",RTK 4
+https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxgt.m3u8
+#EXTINF:-1 tvg-id="TVPrizreni.xk" group-title="Albanische Sender",TV Prizreni
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8
+#EXTINF:-1 group-title="Albanische Sender",ATV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/index.m3u8
+#EXTINF:-1 group-title="Albanische Sender",PRO1
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/index.m3u8
+#EXTINF:-1 group-title="Albanische Sender",TV News
+https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/js0-h8f-ifx-29f/index.m3u8
+#EXTINF:-1 group-title="Albanische Sender",Zëri TV
+https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/jo8-76n-lmx-tv0/index.m3u8
+#EXTINF:-1 tvg-id="A2CNN.al" group-title="Albanische Sender",A2 CNN Albania
+https://gjirafa-video-live.gjirafa.net/gjvideo-live/2h7-5bc-xym-0k2/index.m3u8
+#EXTINF:-1 tvg-id="TVArberia1.xk" group-title="Albanische Sender",TV Arbëria 1
+https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
