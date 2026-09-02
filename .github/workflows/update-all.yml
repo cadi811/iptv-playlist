@@ -41,9 +41,6 @@ jobs:
 
           git add \
             IPTV_Samsung_AKTUELL.m3u \
-            albanische_sender.m3u \
-            deutsche_sender.m3u \
-            oesterreichische_sender.m3u \
             IPTV_Automatik_Report.txt \
             deutsche_sender_basis.m3u \
             oesterreichische_sender_basis.m3u \
@@ -55,6 +52,6 @@ jobs:
           if git diff --cached --quiet; then
             echo "Keine Änderung"
           else
-            git commit -m "Auto v4: IPTV AL-XK DE AT aktualisiert"
+            git commit -m "Auto v5: IPTV AL-XK DE AT aktualisiert"
             git push
           fi
