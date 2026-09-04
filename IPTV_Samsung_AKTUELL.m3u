@@ -153,8 +153,6 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
 https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
 #EXTINF:-1 tvg-id="DW.de@Espanol" group-title="Deutsche Sender",DW Espanol (1080p)
 http://177.234.249.178:8888/DW/index.m3u8
-#EXTINF:-1 tvg-id="DW.de@Russian" group-title="Deutsche Sender",DW Russian (1080p)
-https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 #EXTINF:-1 tvg-id="ErzTVStollberg.de@SD" group-title="Deutsche Sender",Erz-TV Stollberg (576p)
 https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.de@SD" tvg-logo="https://i.imgur.com/NXeygNk.png" group-title="Deutsche Sender",EWTN Germany (720p)
@@ -179,8 +177,8 @@ https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
 https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 #EXTINF:-1 tvg-id="HRFernsehen.de" group-title="Deutsche Sender",HR
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
-#EXTINF:-1 tvg-id="hrfernsehen.de@SD" group-title="Deutsche Sender",hr-fernsehen (1080p)
-https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
+#EXTINF:-1 tvg-id="hrfernsehen.de@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/HR-Fernsehen_Logo_2023.svg/960px-HR-Fernsehen_Logo_2023.svg.png" group-title="Deutsche Sender",hr-fernsehen HD
+https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="iCarly.de@DACH" tvg-logo="https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoPNG.png" group-title="Deutsche Sender",iCarly
 https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8
 #EXTINF:-1 tvg-id="IcePilots.us@Germany" tvg-logo="https://i.imgur.com/F8GBYq3.png" group-title="Deutsche Sender",Ice Pilots
@@ -421,6 +419,8 @@ https://ma.anixa.tv/clips/stream/rtl/index.m3u8
 https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="SaarlandFernsehen2.de@SD" group-title="Deutsche Sender",Saarland Fernsehen 2 (720p) [Not 24/7]
 https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+#EXTINF:-1 tvg-id="SabrinaTotalverhext.de@DACH" tvg-logo="https://images.pluto.tv/channels/622f40c901d4b70007ad7609/colorLogoPNG.png" group-title="Deutsche Sender",Sabrina Total verhext!
+https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
 #EXTINF:-1 tvg-id="SAT1Gold.de@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Sat.1_Gold_Logo_2019.svg/960px-Sat.1_Gold_Logo_2019.svg.png" group-title="Deutsche Sender",SAT.1 Gold (576p)
 https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="sat1.de" tvg-logo="https://picserve.netplus.ch/channels/sat1.png" tvg-country="DE" tvg-language="German" group-title="Deutsche Sender",SAT.1 HD
@@ -525,8 +525,6 @@ https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_r
 https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8
 #EXTINF:-1 tvg-id="KITTV.at@SD" group-title="Österreichische Sender",KIT-TV
 https://everest.pa-hosting.de:3591/live/joseflive.m3u8
-#EXTINF:-1 tvg-id="Kronehit.at@SD" group-title="Österreichische Sender",Kronehit
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 tvg-id="LandleTV.at@SD" group-title="Österreichische Sender",Ländle TV
 https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
 #EXTINF:-1 tvg-id="Oe24TV.at" tvg-logo="https://i.imgur.com/8UTkcPn.png" group-title="Österreichische Sender",oe24
@@ -549,8 +547,6 @@ https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/
 https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="RTV.at" group-title="Österreichische Sender",RTV
 http://iptv.rtv-ooe.at/stream.m3u8
-#EXTINF:-1 tvg-id="SabrinaTotalverhext.de@DACH" tvg-logo="https://images.pluto.tv/channels/622f40c901d4b70007ad7609/colorLogoPNG.png" group-title="Österreichische Sender",Sabrina Total verhext!
-https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
 #EXTINF:-1 tvg-id="SchladmingDachsteinTV.at@SD" group-title="Österreichische Sender",Schladming-Dachstein TV
 https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SteiermarkTV.at@SD" group-title="Österreichische Sender",Steiermark TV
