@@ -1,5 +1,5 @@
 IPTV 3-LAENDER MASTER AUTO REPORT
-UTC: 2026-09-04 21:37:07
+UTC: 2026-09-05 00:14:16
 
 [Albanische Sender]
 Kandidaten-URLs: 85
@@ -11,7 +11,7 @@ Funktionierende eindeutige Sender: 32
 Kandidaten-URLs: 535
 Normalisierte Sendergruppen: 463
 Getestete URLs: 503
-Funktionierende eindeutige Sender: 225
+Funktionierende eindeutige Sender: 224
 
 [Österreichische Sender]
 Kandidaten-URLs: 153
@@ -19,9 +19,9 @@ Normalisierte Sendergruppen: 146
 Getestete URLs: 149
 Funktionierende eindeutige Sender: 108
 
-GESAMT funktionierende Sender vor länderübergreifender Dublettenbereinigung: 365
+GESAMT funktionierende Sender vor länderübergreifender Dublettenbereinigung: 364
 GESAMT Sender in Samsung-Liste nach Dublettenbereinigung: 281
-Länderübergreifend entfernte identische Stream-URLs: 84
+Länderübergreifend entfernte identische Stream-URLs: 83
 Samsung-Gruppen: Albanische Sender | Deutsche Sender | Österreichische Sender
 
 PFLICHTSENDER DEUTSCHLAND
@@ -57,7 +57,6 @@ ENTFERNT	Österreichische Sender	MTV Reality (720p)	https://jmp2.uk/plu-685136fb
 ENTFERNT	Österreichische Sender	MTV Ridiculousness	https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8
 ENTFERNT	Österreichische Sender	MTV Teen Mom (720p)	https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8
 ENTFERNT	Österreichische Sender	Nick Jr. Club (720p)	https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
-ENTFERNT	Österreichische Sender	Nickelodeon	https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 ENTFERNT	Österreichische Sender	Nickelodeon Classics (720p)	https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
 ENTFERNT	Österreichische Sender	Nickelodeon Teen (720p)	https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
 ENTFERNT	Österreichische Sender	Nickelodeon Toons (720p)	https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
@@ -124,78 +123,78 @@ OK	Besa TV	Basis	audio+video erkannt und 3s dekodiert	https://gjirafa-video-live
 OK	Kohavision (KTV)	Basis	audio+video erkannt und 3s dekodiert	https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/lj9-pxm-o53-rp0/index.m3u8
 OK	News 24 Albania	Basis	audio+video erkannt und 3s dekodiert	https://tv.balkanweb.com/news24/livestream/playlist.m3u8
 OK	RTK 3	Basis	audio+video erkannt und 3s dekodiert	https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk3/index.m3u8
-FEHLER	TV 7 Albania	Basis	https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8: Server returned 403 Forbidden (access denied) 	https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8
-OK	A2 CNN Albania	Basis	audio+video erkannt und 3s dekodiert	https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
-OK	Dasma TV	Basis	audio+video erkannt und 3s dekodiert	http://live.dtv-ks.com:8082/live/DTVHD.stream/playlist.m3u8
 OK	RTV21	Basis	audio+video erkannt und 3s dekodiert	https://gjirafa-video-live.gjirafa.net/gjvideo-live/2cz-npl-jfn-9he/index.m3u8
+FEHLER	TV 7 Albania	Basis	https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8: Server returned 403 Forbidden (access denied) 	https://vs.sednastream.com:1936/tv7/tv7/playlist.m3u8
+OK	Dasma TV	Basis	audio+video erkannt und 3s dekodiert	http://live.dtv-ks.com:8082/live/DTVHD.stream/playlist.m3u8
+OK	A2 CNN Albania	Basis	audio+video erkannt und 3s dekodiert	https://tv.a2news.com/live/smil:a2cnnweb.stream.smil/playlist.m3u8
 OK	AlbKanale Music TV	Basis	audio+video erkannt und 3s dekodiert	https://secured.albportal.net:2083/AlbKanaleMusicTv/index.m3u8
 OK	RTV Pendimi	Basis	audio+video erkannt und 3s dekodiert	https://www.rtvpendimi.com:19360/tvpendimi/tvpendimi.m3u8
-OK	TopEstrada TV	Basis	audio+video erkannt und 3s dekodiert	http://live.topestrada.com/live/topestrada/playlist.m3u8
-OK	T7	Basis	audio+video erkannt und 3s dekodiert	https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
 OK	Syri TV	Basis	audio+video erkannt und 3s dekodiert	https://stream.syritv.al/live/syritv/playlist.m3u8
+OK	T7	Basis	audio+video erkannt und 3s dekodiert	https://gjirafa-video-live.gjirafa.net/gjvideo-livestream-specific/1z8-byc-4ee-lc9/index.m3u8
 OK	TV Arta	Basis	audio+video erkannt und 3s dekodiert	https://gjirafa-video-live.gjirafa.net/gjvideo-live/mps-vgx-u9p-qv1/index.m3u8
+OK	TopEstrada TV	Basis	audio+video erkannt und 3s dekodiert	http://live.topestrada.com/live/topestrada/playlist.m3u8
 OK	TV Opoja	Basis	audio+video erkannt und 3s dekodiert	http://ip.opoja.tv:1935/tvopoja/tvopoja/playlist.m3u8
-OK	Kanal D Drama (1080p)	Recovery-Seed	audio+video erkannt und 3s dekodiert	http://190.93.224.42/KANAL-D-DRAMA/index.m3u8
 OK	Zico TV	Basis	audio+video erkannt und 3s dekodiert	https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
-FEHLER	Alpo TV	Kandidaten-Archiv	[tls @ 0x558cd2a04540] A TLS fatal alert has been received. https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8: Input/output error 	https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
-FEHLER	Alpo TV	Kandidaten-Archiv	https://vs.sednastream.com:1936/alportv/alportv/playlist.m3u8: Server returned 403 Forbidden (access denied) 	https://vs.sednastream.com:1936/alportv/alportv/playlist.m3u8
+OK	Kanal D Drama (1080p)	Recovery-Seed	audio+video erkannt und 3s dekodiert	http://190.93.224.42/KANAL-D-DRAMA/index.m3u8
 FEHLER	CNA (1080p)	Kandidaten-Archiv	https://live1.mediadesk.al/cnatvlive.m3u8: Server returned 403 Forbidden (access denied) 	https://live1.mediadesk.al/cnatvlive.m3u8
+FEHLER	Alpo TV	Kandidaten-Archiv	[tls @ 0x558e387ac540] A TLS fatal alert has been received. https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8: Input/output error 	https://5d00db0e0fcd5.streamlock.net/7236/7236/playlist.m3u8
+FEHLER	Alpo TV	Kandidaten-Archiv	https://vs.sednastream.com:1936/alportv/alportv/playlist.m3u8: Server returned 403 Forbidden (access denied) 	https://vs.sednastream.com:1936/alportv/alportv/playlist.m3u8
 FEHLER	Elrodi TV (576p)	Kandidaten-Archiv	http://5.254.89.106/8718/index.m3u8: Server returned 403 Forbidden (access denied) 	http://5.254.89.106/8718/index.m3u8
 FEHLER	Max (576p)	Kandidaten-Archiv	http://5.254.89.106:80/8882/index.m3u8: Server returned 404 Not Found 	http://5.254.89.106:80/8882/index.m3u8
 FEHLER	My Music (576p)	Kandidaten-Archiv	http://5.254.89.106:80/8821/index.m3u8: Server returned 403 Forbidden (access denied) 	http://5.254.89.106:80/8821/index.m3u8
-OK	Zjarr TV	Basis	audio+video erkannt und 3s dekodiert	https://zjarr.future.al/hls/playlist.m3u8
-FEHLER	Ora News (720p)	Kandidaten-Archiv	https://live1.mediadesk.al/oranews.m3u8: Server returned 403 Forbidden (access denied) 	https://live1.mediadesk.al/oranews.m3u8
-OK	TV Johaniter	Recovery-Seed	audio+video erkannt und 3s dekodiert	https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8
 OK	TV Dielli	Basis	audio+video erkannt und 3s dekodiert	http://stream.tvdielli.com:8081/dielli/index.m3u8
+FEHLER	Ora News (720p)	Kandidaten-Archiv	https://live1.mediadesk.al/oranews.m3u8: Server returned 403 Forbidden (access denied) 	https://live1.mediadesk.al/oranews.m3u8
+OK	Zjarr TV	Basis	audio+video erkannt und 3s dekodiert	https://zjarr.future.al/hls/playlist.m3u8
 OK	ntv	Recovery-Seed	audio+video erkannt und 3s dekodiert	https://protokolldns.xyz/ntv.l.i.v.e5547892023/index.m3u8
-FEHLER	Report TV (720p)	Kandidaten-Archiv	[tcp @ 0x5637223cbf40] Connection to tcp://deb10stream.duckdns.org:443 failed: Connection timed out https://deb10stream.duckdns.org/hls/stream.m3u8: Connection timed out 	https://deb10stream.duckdns.org/hls/stream.m3u8
-FEHLER	RTSH 1 (1080p)	Kandidaten-Archiv	[tcp @ 0x565430c4e900] Connection to tcp://178.33.11.6:8696 failed: Connection timed out http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8: Connection timed out 	http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
+OK	TV Johaniter	Recovery-Seed	audio+video erkannt und 3s dekodiert	https://protokolldns.xyz/johaniterweb44547dsd/index.m3u8
 OK	Vizion Plus	Basis	audio+video erkannt und 3s dekodiert	https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 FEHLER	Top Channel (1080p)	Kandidaten-Archiv	http://5.254.89.106/8708/index.m3u8: Server returned 403 Forbidden (access denied) 	http://5.254.89.106/8708/index.m3u8
-FEHLER	RTSH 2 (1080p)	Kandidaten-Archiv	[tcp @ 0x561b34da8900] Connection to tcp://178.33.11.6:8696 failed: Connection timed out http://178.33.11.6:8696/live/rtsh2/playlist.m3u8: Connection timed out 	http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
+FEHLER	Report TV (720p)	Kandidaten-Archiv	[tcp @ 0x55b55b56bf40] Connection to tcp://deb10stream.duckdns.org:443 failed: Connection timed out https://deb10stream.duckdns.org/hls/stream.m3u8: Connection timed out 	https://deb10stream.duckdns.org/hls/stream.m3u8
 FEHLER	Tring History (720p)	Kandidaten-Archiv	http://5.254.89.106/8765/index.m3u8: Server returned 403 Forbidden (access denied) 	http://5.254.89.106/8765/index.m3u8
-FEHLER	First Channel (1080p)	Kandidaten-Archiv	http://5.254.89.106/8717/index.m3u8: Server returned 403 Forbidden (access denied) 	http://5.254.89.106/8717/index.m3u8
+FEHLER	RTSH 1 (1080p)	Kandidaten-Archiv	[tcp @ 0x555848d55900] Connection to tcp://178.33.11.6:8696 failed: Connection timed out http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8: Connection timed out 	http://178.33.11.6:8696/live/rtsh1ott/playlist.m3u8
 FEHLER	TV Klan (720p)	Kandidaten-Archiv	http://5.254.89.106/8704/index.m3u8: Server returned 403 Forbidden (access denied) 	http://5.254.89.106/8704/index.m3u8
 FEHLER	Klan Kosova (720p)	Kandidaten-Archiv	http://5.254.89.106/8706/index.m3u8: Server returned 403 Forbidden (access denied) 	http://5.254.89.106/8706/index.m3u8
+FEHLER	RTSH 2 (1080p)	Kandidaten-Archiv	[tcp @ 0x561b1f35c900] Connection to tcp://178.33.11.6:8696 failed: Connection timed out http://178.33.11.6:8696/live/rtsh2/playlist.m3u8: Connection timed out 	http://178.33.11.6:8696/live/rtsh2/playlist.m3u8
+FEHLER	First Channel (1080p)	Kandidaten-Archiv	http://5.254.89.106/8717/index.m3u8: Server returned 403 Forbidden (access denied) 	http://5.254.89.106/8717/index.m3u8
 FEHLER	TV Arbëria 3 Fëmijë (720p)	Kandidaten-Archiv	https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8: Server returned 404 Not Found 	https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8
 FEHLER	TV Arbëria 4 Muzikë (720p)	Kandidaten-Archiv	https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8: Server returned 404 Not Found 	https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8
 FEHLER	TV Arbëria Retro Hits (720p)	Kandidaten-Archiv	https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8: Server returned 404 Not Found 	https://ssh101.bozztv.com/ssh101/rtvarberiaretro/playlist.m3u8
+FEHLER	RTSH 24 (1080p)	Kandidaten-Archiv	[tcp @ 0x557dbd891900] Connection to tcp://178.33.11.6:8696 failed: Connection timed out http://178.33.11.6:8696/live/rtsh24/playlist.m3u8: Connection timed out 	http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
 FEHLER	Alb UK TV (1080p)	Kandidaten-Archiv	http://5.254.89.106/8794/index.m3u8: Server returned 403 Forbidden (access denied) 	http://5.254.89.106/8794/index.m3u8
 FEHLER	Albanian TV America (1080p)	Kandidaten-Archiv	http://5.254.89.106/8711/index.m3u8: Server returned 403 Forbidden (access denied) 	http://5.254.89.106/8711/index.m3u8
 FEHLER	Alsat (576p)	Kandidaten-Archiv	http://5.254.89.106/8713/index.m3u8: Server returned 403 Forbidden (access denied) 	http://5.254.89.106/8713/index.m3u8
-FEHLER	RTSH 24 (1080p)	Kandidaten-Archiv	[tcp @ 0x55bd03fd8900] Connection to tcp://178.33.11.6:8696 failed: Connection timed out http://178.33.11.6:8696/live/rtsh24/playlist.m3u8: Connection timed out 	http://178.33.11.6:8696/live/rtsh24/playlist.m3u8
-FEHLER	RTSH Shqip (1080p)	Kandidaten-Archiv	[tcp @ 0x562a06ac6900] Connection to tcp://178.33.11.6:8696 failed: Connection timed out http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8: Connection timed out 	http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
+FEHLER	RTSH Shqip (1080p)	Kandidaten-Archiv	[tcp @ 0x55da5427b900] Connection to tcp://178.33.11.6:8696 failed: Connection timed out http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8: Connection timed out 	http://178.33.11.6:8696/live/rtshshqip/playlist.m3u8
+FEHLER	MRT 2 [Geo-blocked]	Kandidaten-Archiv	[tcp @ 0x558ac083ff40] Connection to tcp://vipottbpkstream.vip.hr:443 failed: Connection refused https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8: C	https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
+FEHLER	MRT Sobraniski kanal [Geo-blocked]	Kandidaten-Archiv	[tcp @ 0x55b8f1bf8f40] Connection to tcp://vipottbpkstream.vip.hr:443 failed: Connection refused https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/in	https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
 FEHLER	RTV Islam (720p)	Kandidaten-Archiv	http://5.254.89.106/8714/index.m3u8: Server returned 403 Forbidden (access denied) 	http://5.254.89.106/8714/index.m3u8
-FEHLER	RTSH Sport (1080p)	Kandidaten-Archiv	[tcp @ 0x56473126a900] Connection to tcp://178.33.11.6:8696 failed: Connection timed out http://178.33.11.6:8696/live/rtshsport/playlist.m3u8: Connection timed out 	http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
-FEHLER	TV21 [Geo-blocked]	Kandidaten-Archiv	[tcp @ 0x55630977ef40] Connection to tcp://vipottbpkstream.vip.hr:443 failed: Connection refused https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8: Co	https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
-FEHLER	MRT 2 [Geo-blocked]	Kandidaten-Archiv	[tcp @ 0x557e7befcf40] Connection to tcp://vipottbpkstream.vip.hr:443 failed: Connection refused https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8: C	https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(MRT_2)/index.m3u8
-FEHLER	TV ERA [Geo-blocked]	Kandidaten-Archiv	[tcp @ 0x563cd3510f40] Connection to tcp://vipottbpkstream.vip.hr:443 failed: Connection refused https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8: Con	https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
-FEHLER	MRT Sobraniski kanal [Geo-blocked]	Kandidaten-Archiv	[tcp @ 0x556405658f40] Connection to tcp://vipottbpkstream.vip.hr:443 failed: Connection refused https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/in	https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(Sobraniski_Kanal)/index.m3u8
+FEHLER	TV21 [Geo-blocked]	Kandidaten-Archiv	[tcp @ 0x5595e995ff40] Connection to tcp://vipottbpkstream.vip.hr:443 failed: Connection refused https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8: Co	https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(TV21)/index.m3u8
+FEHLER	TV ERA [Geo-blocked]	Kandidaten-Archiv	[tcp @ 0x55a9c6b73f40] Connection to tcp://vipottbpkstream.vip.hr:443 failed: Connection refused https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8: Con	https://vipottbpkstream.vip.hr/Content/onevip-hls/Live/Channel(ERA)/index.m3u8
 FEHLER	ABC News Albania Ⓣ	Kandidaten-Archiv	https://www.twitch.tv/abcnewsal: Invalid data found when processing input 	https://www.twitch.tv/abcnewsal
-FEHLER	Top News Ⓣ	Kandidaten-Archiv	https://www.twitch.tv/topnewsal: Invalid data found when processing input 	https://www.twitch.tv/topnewsal
 FEHLER	Euronews Albania Ⓨ	Kandidaten-Archiv	https://www.youtube.com/@EuronewsAlbania/live: Invalid data found when processing input 	https://www.youtube.com/@EuronewsAlbania/live
 FEHLER	Kanali 7 Ⓢ	Kandidaten-Archiv	https://fe.tring.al/delta/105/out/u/1200_1.m3u8: Server returned 404 Not Found 	https://fe.tring.al/delta/105/out/u/1200_1.m3u8
-FEHLER	TV Apollon Ⓢ	Kandidaten-Archiv	https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2: Server returned 404 Not Found 	https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
+FEHLER	Top News Ⓣ	Kandidaten-Archiv	https://www.twitch.tv/topnewsal: Invalid data found when processing input 	https://www.twitch.tv/topnewsal
+FEHLER	RTSH Sport (1080p)	Kandidaten-Archiv	[tcp @ 0x555a6ed31900] Connection to tcp://178.33.11.6:8696 failed: Connection timed out http://178.33.11.6:8696/live/rtshsport/playlist.m3u8: Connection timed out 	http://178.33.11.6:8696/live/rtshsport/playlist.m3u8
 FEHLER	RTK 4	Kandidaten-Archiv	https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxgt.m3u8: Server returned 404 Not Found 	https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxgt.m3u8
-FEHLER	RTK 2	Kandidaten-Archiv	https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz0.m3u8: Server returned 404 Not Found 	https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz0.m3u8
-FEHLER	RTK 2	Kandidaten-Archiv	https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz01080/index.m3u8: Server returned 404 Not Found 	https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz01080/index.m3u8
+FEHLER	TV Apollon Ⓢ	Kandidaten-Archiv	https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2: Server returned 404 Not Found 	https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 FEHLER	ATV (1080p)	Kandidaten-Archiv	http://5.254.89.106/8709/index.m3u8: Server returned 403 Forbidden (access denied) 	http://5.254.89.106/8709/index.m3u8
 OK	ATV	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://gjirafa-video-live.gjirafa.net/gjvideo-live/0nj-g63-92x-few/index.m3u8
+FEHLER	RTK 2	Kandidaten-Archiv	https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz0.m3u8: Server returned 404 Not Found 	https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz0.m3u8
+FEHLER	RTK 2	Kandidaten-Archiv	https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz01080/index.m3u8: Server returned 404 Not Found 	https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxz01080/index.m3u8
 OK	TV Prizreni	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8
-FEHLER	Panorama TV Ⓢ	Kandidaten-Archiv	[tcp @ 0x564e1e903900] Connection to tcp://198.244.188.94:80 failed: Connection timed out http://198.244.188.94/panorama/livestream/playlist.m3u8: Connection timed out 	http://198.244.188.94/panorama/livestream/playlist.m3u8
 FEHLER	TV Arbëria 1	Kandidaten-Archiv	https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8: Server returned 404 Not Found 	https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8
-OK	Tropoja Televizion	Basis	audio+video erkannt und 3s dekodiert	https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
+FEHLER	Panorama TV Ⓢ	Kandidaten-Archiv	[tcp @ 0x5636f4db5900] Connection to tcp://198.244.188.94:80 failed: Connection timed out http://198.244.188.94/panorama/livestream/playlist.m3u8: Connection timed out 	http://198.244.188.94/panorama/livestream/playlist.m3u8
 OK	PRO1	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://gjirafa-video-live.gjirafa.net/gjvideo-live/nng-gki-l1j-n1z/index.m3u8
-OK	Zëri TV	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/jo8-76n-lmx-tv0/index.m3u8
 OK	TV News	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/js0-h8f-ifx-29f/index.m3u8
+OK	Zëri TV	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/jo8-76n-lmx-tv0/index.m3u8
+OK	Tropoja Televizion	Basis	audio+video erkannt und 3s dekodiert	https://live.prostream.al/al/smil:tropojatv.smil/playlist.m3u8
 OK	RTV 1	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	http://video.radio1.al/hls/rtvnje/index.m3u8
+OK	TVA News	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://live.tvanews.com/live/tvanews/chunklist_w869460556.m3u8
 FEHLER	RTK 1 (1080p)	Kandidaten-Archiv	http://5.254.89.106/8702/index.m3u8: Server returned 403 Forbidden (access denied) 	http://5.254.89.106/8702/index.m3u8
-FEHLER	RTK 1	Kandidaten-Archiv	[tls @ 0x55f4e1c9f540] Error in the pull function. [tls @ 0x55f4e1c9f540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8: Conne	https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
+FEHLER	RTK 1	Kandidaten-Archiv	[tls @ 0x562b3894b540] Error in the pull function. [tls @ 0x562b3894b540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8: Conne	https://viamotionhsi.netplus.ch/live/eds/rtk1/browser-HLS8/rtk1.m3u8
 FEHLER	RTK 1	Kandidaten-Archiv	https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq.m3u8: Server returned 404 Not Found 	https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq.m3u8
 FEHLER	RTK 1	Kandidaten-Archiv	https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq1080/index.m3u8: Server returned 404 Not Found 	https://ub1doy938d.gjirafa.net/live/Gfsqdsr7FewrYClU3ACEGZvCHktt2wse/zykxzq1080/index.m3u8
 FEHLER	RTK 1	Kandidaten-Archiv	https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v4a1/mono.m3u8: Server returned 403 Forbidden (access denied) 	https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/98r-d35-487-v6m/tracks-v4a1/mono.m3u8
 OK	RTV Ahireti	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://tv.rtvahireti.com/Ahierti/live/playlist.m3u8
-OK	TVA News	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://live.tvanews.com/live/tvanews/chunklist_w869460556.m3u8
 OK	RTK 1 Satelit	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/index.m3u8
 FEHLER	EBS Plus (1080p)	Kandidaten-Archiv	ffprobe: Command '['ffprobe', '-v', 'error', '-rw_timeout', '12000000', '-analyzeduration', '5000000', '-probesize', '10000000', 	https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
 
@@ -206,407 +205,407 @@ FEHLER	ANIXE SERIE HD	Kandidaten-Archiv	https://netplus.zappr.stream/anixe.m3u8:
 OK	Adventure Earth	Basis	audio+video erkannt und 3s dekodiert	https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 OK	Adria Music Television	Basis	audio+video erkannt und 3s dekodiert	https://adriaapp.b-cdn.net/1080p/index.m3u8
 FEHLER	Aristo TV (360p)	Basis	https://ma.anixa.tv/clips/stream/aristo/index.m3u8: Server returned 403 Forbidden (access denied) 	https://ma.anixa.tv/clips/stream/aristo/index.m3u8
-FEHLER	ANIMAL KINGDOM (720p)	Basis	[tcp @ 0x561cda63ff40] Connection to tcp://cdn6.goprimetime.info:443 failed: Connection timed out https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8: Connection timed 	https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
+FEHLER	ANIMAL KINGDOM (720p)	Basis	[tcp @ 0x559fbb007f40] Connection to tcp://cdn6.goprimetime.info:443 failed: Connection timed out https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8: Connection timed 	https://cdn6.goprimetime.info/feed/202306140918/LC18/index.m3u8
 FEHLER	ARTE	Basis	https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8: Server returned 403 Forbidden (access denied) 	https://artesimulcast.akamaized.net/hls/live/2030993/artelive_de/index.m3u8
 OK	arte HD	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 OK	Autentic History	Basis	audio+video erkannt und 3s dekodiert	https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
 OK	Augsburg TV (a.tv) (1080p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	https://augsburgtv.iptv-playoutcenter.de/augsburgtv/augsburgtv.stream_1/playlist.m3u8
 OK	Allgäu TV	Basis	audio+video erkannt und 3s dekodiert	https://stream01.welocal.stream/stream/fhd-allgaeutv_25679/ngrp:stream_all/playlist.m3u8
+OK	Autentic Travel	Basis	audio+video erkannt und 3s dekodiert	https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
 OK	Alex Berlin	Basis	audio+video erkannt und 3s dekodiert	https://alex-stream.rosebud-media.de/bounce/alexlivetv50.smil/index.m3u8
 OK	Augsburg TV	Basis	audio+video erkannt und 3s dekodiert	https://stream02.welocal.stream/stream/fhd-augsburgtv_104951/ngrp:stream_all/playlist.m3u8
-OK	Autentic Travel	Basis	audio+video erkannt und 3s dekodiert	https://cb0c87cc605942ff9766a4e6744bbadc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticTravel/playlist.m3u8
 OK	BLK Regional TV (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
-FEHLER	Baden TV	Basis	[tcp @ 0x561a4c229a40] Connection to tcp://cdn.icu.de:443 failed: Connection timed out https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8: Connection timed out 	https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
-FEHLER	Baden TV (1080p) [Not 24/7]	Basis	[tcp @ 0x5577ce4cf540] Connection to tcp://badentv-stream2.siebnich.info:80 failed: Connection timed out http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8: Connecti	http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
+OK	BLK TV Hohenmölsen (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?ref=medienportal-sachsen-
+FEHLER	Baden TV	Basis	[tcp @ 0x559662636a40] Connection to tcp://cdn.icu.de:443 failed: Connection timed out https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8: Connection timed out 	https://cdn.icu.de/rtplive/btv.stream/playlist.m3u8
+FEHLER	Baden TV (1080p) [Not 24/7]	Basis	[tcp @ 0x564615a76540] Connection to tcp://badentv-stream2.siebnich.info:80 failed: Connection timed out http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8: Connecti	http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 OK	BLK TV (1080p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
 FEHLER	3sat (720p) [Geo-blocked]	Basis	https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8: Server returned 403 Forbidden (access denied) 	https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
 FEHLER	3sat	Basis	https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8: Server returned 403 Forbidden (access denied) 	https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/veryhigh/master.m3u8
 FEHLER	3sat HD	Kandidaten-Archiv	https://netplus.zappr.stream/3sathd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/3sathd.m3u8
-FEHLER	3sat HD [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x56486a073540] Error in the pull function. [tls @ 0x56486a073540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd: Co	https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
-FEHLER	3sat HD (1080p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x563e8bee3540] Error in the pull function. [tls @ 0x563e8bee3540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8: C	https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
-OK	BLK TV Hohenmölsen (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?ref=medienportal-sachsen-
-OK	Altenburg TV	Basis	audio+video erkannt und 3s dekodiert	https://sdn-global-live-streaming-packager-cache.3qsdn.com/132661/132661_264_live.m3u8
-OK	Chemnitz Fernsehen	Basis	audio+video erkannt und 3s dekodiert	https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
-OK	Cira TV (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
+FEHLER	3sat HD [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x55a8cfe47540] Error in the pull function. [tls @ 0x55a8cfe47540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd: Co	https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-dash/3sathd.mpd
+FEHLER	3sat HD (1080p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x55dd70648540] Error in the pull function. [tls @ 0x55dd70648540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8: C	https://viamotionhsi.netplus.ch/live/eds/3sathd/browser-HLS8/3sathd.m3u8
 OK	ARD Alpha	Basis	audio+video erkannt und 3s dekodiert	https://mcdn.br.de/br/fs/ard_alpha/hls/de/master.m3u8
+OK	Altenburg TV	Basis	audio+video erkannt und 3s dekodiert	https://sdn-global-live-streaming-packager-cache.3qsdn.com/132661/132661_264_live.m3u8
+OK	Cira TV (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://hlspackager.akamaized.net/live/DB/CIRA_TV/HLS/CIRA_TV.m3u8
+OK	Chemnitz Fernsehen	Basis	audio+video erkannt und 3s dekodiert	https://chemnitz.iptv-playoutcenter.de/chemnitz/chemnitzfernsehen.stream_1/playlist.m3u8
 OK	Deluxe Lounge	Basis	audio+video erkannt und 3s dekodiert	https://jmp2.uk/stvp-CHAJ0500413A
 OK	DELUXE MUSIC	Basis	audio+video erkannt und 3s dekodiert	https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 OK	BR Nord	Basis	audio+video erkannt und 3s dekodiert	https://mcdn.br.de/br/fs/bfs_nord/hls/de/master.m3u8
-OK	DELUXE MUSIC DANCE BY KONTOR	Basis	audio+video erkannt und 3s dekodiert	https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 OK	Das Erste	Basis	audio+video erkannt und 3s dekodiert	https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-OK	DASDING 90.8	Basis	audio+video erkannt und 3s dekodiert	https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 OK	BR Süd	Basis	audio+video erkannt und 3s dekodiert	https://mcdn.br.de/br/fs/bfs_sued/hls/de/master.m3u8
-OK	DMF	Basis	audio+video erkannt und 3s dekodiert	https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
+OK	DELUXE MUSIC DANCE BY KONTOR	Basis	audio+video erkannt und 3s dekodiert	https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+OK	Dokusat	Basis	audio+video erkannt und 3s dekodiert	https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+OK	DASDING 90.8	Basis	audio+video erkannt und 3s dekodiert	https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 OK	Dresden Fernsehen	Basis	audio+video erkannt und 3s dekodiert	https://dresden.iptv-playoutcenter.de/dresden/dresdenfernsehen.stream_1/playlist.m3u8
 OK	DW Espanol (1080p)	Basis	audio+video erkannt und 3s dekodiert	http://177.234.249.178:8888/DW/index.m3u8
-OK	Dokusat	Basis	audio+video erkannt und 3s dekodiert	https://muc3.iptv-playoutcenter.de/dokusat/dokusat1/playlist.m3u8
+OK	DMF	Basis	audio+video erkannt und 3s dekodiert	https://d-m-f.iptv-playoutcenter.de/dmf/dmf1/playlist.m3u8
 FEHLER	Euronews Deutsch Ⓨ	Basis	https://www.youtube.com/euronewsde/live: Invalid data found when processing input 	https://www.youtube.com/euronewsde/live
-FEHLER	DW English (720p) [Geo-blocked]	Basis	https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8: Server returned 403 Forbidden (access denied) 	https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
-OK	DW English (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
 OK	Folx Music Television	Basis	audio+video erkannt und 3s dekodiert	https://folxapp.b-cdn.net/1080p/index.m3u8
+FEHLER	Finest TV (288p) [Not 24/7]	Basis	[tcp @ 0x560cb2cd58c0] Connection to tcp://media.finest.tv:443 failed: Connection timed out https://media.finest.tv/hls/live.m3u8: Connection timed out 	https://media.finest.tv/hls/live.m3u8
+OK	DW Arabic (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
 FEHLER	DELUXE MUSIC RAP	Basis	ffmpeg: Command '['ffmpeg', '-v', 'error', '-rw_timeout', '12000000', '-i', 'https://sdn-global-live-streaming-packager-cache.3q	https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
-FEHLER	Finest TV (288p) [Not 24/7]	Basis	[tcp @ 0x561e294c68c0] Connection to tcp://media.finest.tv:443 failed: Connection timed out https://media.finest.tv/hls/live.m3u8: Connection timed out 	https://media.finest.tv/hls/live.m3u8
-FEHLER	Hope Channel German (1080p)	Basis	[https @ 0x564e0bf9cf00] Stream ends prematurely at 0, should be 18446744073709551615 https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manife	https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8
-FEHLER	Hamburg 1	Basis	[tcp @ 0x55fea75c0f40] Connection to tcp://stream.hamburg1.de:443 failed: Connection timed out https://stream.hamburg1.de/live_abr/hamburg1_abr/playlist.m3u8: Connection timed out 	https://stream.hamburg1.de/live_abr/hamburg1_abr/playlist.m3u8
+FEHLER	Hope Channel German (1080p)	Basis	[https @ 0x559330198f00] Stream ends prematurely at 0, should be 18446744073709551615 https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manife	https://customer-x8zydurm357k8j9p.cloudflarestream.com/5b46490d20cdd87fcac238b0027813e0/manifest/video.m3u8
 OK	Filstalwelle	Basis	audio+video erkannt und 3s dekodiert	https://h055.video-stream-hosting.de/filstalwelle-live/_definst_/mp4:livestream/playlist.m3u8
 OK	Erz-TV Stollberg (576p)	Basis	audio+video erkannt und 3s dekodiert	https://5acade5fc0c29.streamlock.net/kabeljournal/live2020.stream/playlist.m3u8
+FEHLER	DW English (720p) [Geo-blocked]	Basis	https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8: Server returned 403 Forbidden (access denied) 	https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
+OK	DW English (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://amg01644-amg01644c1-amgplt0343.playout.now3.amagi.tv/ts-eu-w1-n2/playlist/amg01644-amg01644c1-amgplt0343/playlist.m3u8
 OK	Franken Fernsehen	Basis	audio+video erkannt und 3s dekodiert	https://frankentv.iptv-playoutcenter.de/frankentv/frankentv.stream_1/playlist.m3u8
-FEHLER	Kanal12 Spremberg TV (404p) [Not 24/7]	Basis	[tcp @ 0x55da97e59f40] Connection to tcp://58de7a369a9c4.streamlock.net:443 failed: Connection timed out https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8: Connec	https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
-OK	iSTUFF (720p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
-FEHLER	DW Russian (1080p)	Basis	ffprobe: Command '['ffprobe', '-v', 'error', '-rw_timeout', '12000000', '-analyzeduration', '5000000', '-probesize', '10000000', 	https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
-OK	FrankenPlus (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8
+FEHLER	Hamburg 1	Basis	[tcp @ 0x5567588e1f40] Connection to tcp://stream.hamburg1.de:443 failed: Connection timed out https://stream.hamburg1.de/live_abr/hamburg1_abr/playlist.m3u8: Connection timed out 	https://stream.hamburg1.de/live_abr/hamburg1_abr/playlist.m3u8
 OK	KulturMD (1080p)	Basis	audio+video erkannt und 3s dekodiert	http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
-FEHLER	labor14 (720p)	Basis	[in#0 @ 0x562766e01e00] Error opening input: Server returned 403 Forbidden (access denied) Error opening input file https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.strea	https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
+FEHLER	Kanal12 Spremberg TV (404p) [Not 24/7]	Basis	[tcp @ 0x55dad6d80f40] Connection to tcp://58de7a369a9c4.streamlock.net:443 failed: Connection timed out https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8: Connec	https://58de7a369a9c4.streamlock.net/sprembergtv/live/playlist.m3u8
+OK	iSTUFF (720p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	https://relay2.cdn.fem-net.de/hls/loop/istuff_live/istuff_live-720p.m3u8
+OK	FrankenPlus (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://stream01.welocal.stream/stream/fhd-frankenplus_119/ngrp:stream_all/playlist.m3u8
+FEHLER	labor14 (720p)	Basis	[in#0 @ 0x5607b7c91e00] Error opening input: Server returned 403 Forbidden (access denied) Error opening input file https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.strea	https://5acade5fc0c29.streamlock.net/OKGera/tmbz_live_high.stream/playlist.m3u8
 FEHLER	Magenta Musik 360	Basis	https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8: Server returned 403 Forbidden (access denied) 	https://streaming.magentamusik.de/csm/573870/magentamusik1/index.m3u8
-OK	DW Arabic (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/master.m3u8
-OK	Leipzig Fernsehen	Basis	audio+video erkannt und 3s dekodiert	https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
+FEHLER	DW Russian (1080p)	Basis	[hls @ 0x564ebd830f00] Error when loading first segment 'https://dwamdstream110.akamaized.net/hls/live/2017971-b/dwstream110/stream04/20260831T091222/ts/149047/sequence_298094183.t	https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/master.m3u8
 OK	Lausitzwelle	Basis	audio+video erkannt und 3s dekodiert	https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
+OK	Leipzig Fernsehen	Basis	audio+video erkannt und 3s dekodiert	https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
 FEHLER	MDR Thüringen	Basis	https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8: Server returned 403 Forbidden (access denied) 	https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/master.m3u8
 OK	Light Channel (576p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
 OK	MDF.1 (1080p)	Basis	audio+video erkannt und 3s dekodiert	http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
 FEHLER	MDR Fernsehen Thüringen (1080p) [Geo-blocked]	Basis	https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8: Server returned 403 Forbidden (access denied) 	https://mdrtvthhls.akamaized.net/hls/live/2016880/mdrtvth/index.m3u8
 OK	MDR Fernsehen Thuringen	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
-OK	Motorvision (576p)	Basis	audio+video erkannt und 3s dekodiert	http://hls127.freeott.top:8080/Motorvision/video.m3u8
 OK	MC TV (720p)	Basis	audio+video erkannt und 3s dekodiert	https://rrr.sz.xlcdn.com/?account=mceutv&file=mc2&output=playlist.m3u8&protocol=https&service=wowza&type=live
+OK	Motorvision (576p)	Basis	audio+video erkannt und 3s dekodiert	http://hls127.freeott.top:8080/Motorvision/video.m3u8
 FEHLER	hr-fernsehen (1080p)	Basis	ffprobe: Command '['ffprobe', '-v', 'error', '-rw_timeout', '12000000', '-analyzeduration', '5000000', '-probesize', '10000000', 	https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
 OK	hr-fernsehen HD	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
-OK	Nash Kinomir (576p)	Basis	audio+video erkannt und 3s dekodiert	http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 OK	HR	Basis	audio+video erkannt und 3s dekodiert	https://hrhls.akamaized.net/hls/live/2024525/hrhls/master.m3u8
+OK	Nash Kinomir (576p)	Basis	audio+video erkannt und 3s dekodiert	http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 OK	KiKA (1080p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
 OK	München TV	Basis	audio+video erkannt und 3s dekodiert	https://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1/playlist.m3u8
 FEHLER	Nickelodeon Deutschland [Geo-blocked]	Basis	https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8: Server returned 403 Forbidden (access denied) 	https://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/master.m3u8
-FEHLER	Nachrichten 360 (1080p) [Geo-blocked]	Basis	[hls @ 0x564e98984880] Error when loading first segment 'https://amg01821-amg01821c36-samsung-de-10521.playouts.now.amagi.tv/240p/seg_1460107.ts' https://cdn-apse1-prod.tsv2.amagi.	https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8
+FEHLER	Nachrichten 360 (1080p) [Geo-blocked]	Basis	[hls @ 0x55fee35cc880] Error when loading first segment 'https://amg01821-amg01821c36-samsung-de-10521.playouts.now.amagi.tv/240p/seg_1461687.ts' https://cdn-apse1-prod.tsv2.amagi.	https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8
 OK	Nickelodeon	Basis	audio+video erkannt und 3s dekodiert	https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 OK	More Than Sports TV	Basis	audio+video erkannt und 3s dekodiert	https://mts1.iptv-playoutcenter.de/mts/mts-web/playlist.m3u8
-FEHLER	NDR International	Basis	ffprobe: Command '['ffprobe', '-v', 'error', '-rw_timeout', '12000000', '-analyzeduration', '5000000', '-probesize', '10000000', 	https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
-OK	Niederbayern TV	Basis	audio+video erkannt und 3s dekodiert	https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
 OK	Niederbayern TV Landshut (1080p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	https://isar-tv.iptv-playoutcenter.de/isar-tv/isar-tv.stream_1/playlist.m3u8
+OK	Niederbayern TV	Basis	audio+video erkannt und 3s dekodiert	https://stream03.welocal.stream/stream/sat-nby/ngrp:sat-nby.stream_all/index.m3u8
+FEHLER	NDR International	Basis	ffprobe: Command '['ffprobe', '-v', 'error', '-rw_timeout', '12000000', '-analyzeduration', '5000000', '-probesize', '10000000', 	https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
 OK	Niederbayern TV Deggendorf & Straubing (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://stream03.welocal.stream/stream/fhd-nbydeggendorf_99148/ngrp:stream_all/index.m3u8
+OK	Noa 4 Hamburg (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 OK	NDR Hamburg	Basis	audio+video erkannt und 3s dekodiert	https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_hh/master.m3u8
-OK	Oberpfalz TV	Basis	audio+video erkannt und 3s dekodiert	https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
-OK	Noa 4 Norderstedt (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
 OK	NDR Mecklenburg-Vorpommern	Basis	audio+video erkannt und 3s dekodiert	https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_mv/master.m3u8
-OK	NDR Schleswig-Holstein	Basis	audio+video erkannt und 3s dekodiert	https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+OK	Noa 4 Norderstedt (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://hls1.wtnet.de/noa4/apple/wifi6500.m3u8
 FEHLER	OK Kaiserslautern (720p) [Geo-blocked]	Basis	https://s.ok54.de/abr_okkl/webstream/playlist.m3u8: Server returned 403 Forbidden (access denied) 	https://s.ok54.de/abr_okkl/webstream/playlist.m3u8
 FEHLER	OK Kassel (720p) [Geo-blocked]	Basis	https://s.ok54.de/mok-ks/kassel/playlist.m3u8: Server returned 403 Forbidden (access denied) 	https://s.ok54.de/mok-ks/kassel/playlist.m3u8
+OK	NDR Schleswig-Holstein	Basis	audio+video erkannt und 3s dekodiert	https://mcdn.ndr.de/ndr/hls/ndr_fs/ndr_sh/master.m3u8
+OK	Oberpfalz TV	Basis	audio+video erkannt und 3s dekodiert	https://oberpfalztv.iptv-playoutcenter.de/oberpfalztv/oberpfalztv.stream_1/playlist.m3u8
 OK	OK Dessau (1080p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
-OK	Noa 4 Hamburg (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://hls1.wtnet.de/noa4hh/apple/wifi6500.m3u8
 OK	Niederbayern TV Passau (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://stream03.welocal.stream/stream/fhd-nbypassau_49171/ngrp:stream_all/index.m3u8
 FEHLER	OK Rhein-Main (576p) [Geo-blocked]	Basis	https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8: Server returned 403 Forbidden (access denied) 	https://s.ok54.de/mok-rm/mok-rm/playlist.m3u8
+OK	OK Flensburg (576p)	Basis	audio+video erkannt und 3s dekodiert	https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
 OK	OK Magdeburg (1080p)	Basis	audio+video erkannt und 3s dekodiert	http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
 OK	OF-TV Offenbach (720p)	Basis	audio+video erkannt und 3s dekodiert	https://5864df9ceac85.streamlock.net/germanpictures-live/_definst_/mp4:streamschedule/playlist.m3u8
+OK	OK Merseburg-Querfurt (1080p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
 FEHLER	OK Trier (720p) [Geo-blocked]	Basis	https://s.ok54.de/ott/webstream/playlist.m3u8: Server returned 403 Forbidden (access denied) 	https://s.ok54.de/ott/webstream/playlist.m3u8
 FEHLER	OK-TV Ludwigshafen (720p) [Geo-blocked]	Basis	https://s.ok54.de/oklu/livestream/playlist.m3u8: Server returned 404 Not Found 	https://s.ok54.de/oklu/livestream/playlist.m3u8
-OK	OK Merseburg-Querfurt (1080p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8
+OK	OK Salzwedel (1080p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
+OK	OK Kiel (576p)	Basis	audio+video erkannt und 3s dekodiert	https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
 FEHLER	OK Weinstraße (Neustadt) (432p) [Geo-blocked]	Basis	https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8: Server returned 404 Not Found 	https://s.ok54.de/okweinstrasse/okweinstrasse/playlist.m3u8
 FEHLER	OK4 (720p) [Geo-blocked]	Basis	https://s.ok54.de/abr_ok4/live/playlist.m3u8: Server returned 403 Forbidden (access denied) 	https://s.ok54.de/abr_ok4/live/playlist.m3u8
-OK	OK Flensburg (576p)	Basis	audio+video erkannt und 3s dekodiert	https://live-cdn.oksh.de/play/hls/flensburgtv/index.m3u8
 FEHLER	OK54 (720p) [Geo-blocked]	Basis	https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8: Server returned 403 Forbidden (access denied) 	https://s.ok54.de/ott/webstream/tv/webstream_720p/playlist.m3u8
-OK	OK Kiel (576p)	Basis	audio+video erkannt und 3s dekodiert	https://live-cdn.oksh.de/play/hls/kieltv/index.m3u8
-OK	OK Salzwedel (1080p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
-FEHLER	Parlamentsfernsehen 2 (1080p) [Not 24/7]	Basis	https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8: Server returned 404 Not Found 	https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
 OK	OK Stendal (1080p)	Basis	audio+video erkannt und 3s dekodiert	http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-stendal_high/playlist.m3u8
-OK	One Music Television	Basis	audio+video erkannt und 3s dekodiert	https://oneapp.b-cdn.net/1080p/index.m3u8
+FEHLER	Parlamentsfernsehen 2 (1080p) [Not 24/7]	Basis	https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8: Server returned 404 Not Found 	https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk2/_definst_/live/video/hk2_de.smil/playlist.m3u8
 FEHLER	Parlamentsfernsehen 3 (1080p) [Not 24/7]	Basis	https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8: Server returned 404 Not Found 	https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk3/_definst_/live/video/hk3_de.smil/playlist.m3u8
 FEHLER	Parlamentsfernsehen 4 (1080p) [Not 24/7]	Basis	https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8: Server returned 404 Not Found 	https://bttv-live-z.r53.cdn.tv1.eu/13014bundestag-hk4/_definst_/live/video/hk4_de.smil/playlist.m3u8
-OK	One Adria	Basis	audio+video erkannt und 3s dekodiert	https://oneadriaapp.b-cdn.net/1080p/index.m3u8
-FEHLER	Radio 21 TV (720p)	Basis	https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8: Server returned 403 Forbidden (access denied) 	https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
 OK	Parlamentsfernsehen 1 (1080p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	https://cldf-hlsgw.r53.cdn.tv1.eu/1000153copo/hk1.m3u8
+OK	One Adria	Basis	audio+video erkannt und 3s dekodiert	https://oneadriaapp.b-cdn.net/1080p/index.m3u8
+OK	One Music Television	Basis	audio+video erkannt und 3s dekodiert	https://oneapp.b-cdn.net/1080p/index.m3u8
 FEHLER	Radio Bremen	Basis	https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8: Server returned 403 Forbidden (access denied) 	https://rbhlslive.akamaized.net/hls/live/2020435/rbfs/master.m3u8
+FEHLER	Radio 21 TV (720p)	Basis	https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8: Server returned 403 Forbidden (access denied) 	https://live.creacast.com/radio21/smil:radio21.smil/playlist.m3u8
+OK	OK Wernigerode (1080p)	Basis	audio+video erkannt und 3s dekodiert	http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
 FEHLER	RBB Berlin (1080p) [Geo-blocked]	Basis	https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8: Server returned 403 Forbidden (access denied) 	https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/index.m3u8
 FEHLER	RBB Berlin	Basis	https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8: Server returned 403 Forbidden (access denied) 	https://rbb-hls-berlin.akamaized.net/hls/live/2017824/rbb_berlin/master.m3u8
-OK	OK Wernigerode (1080p)	Basis	audio+video erkannt und 3s dekodiert	http://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:ok-wernigerode_high/playlist.m3u8
-FEHLER	RBB Brandenburg	Basis	https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8: Server returned 403 Forbidden (access denied) 	https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
 OK	PUNKTum Fernsehen (1080p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
+FEHLER	RBB Brandenburg	Basis	https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8: Server returned 403 Forbidden (access denied) 	https://rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master.m3u8
 OK	RAN1 (1080p)	Basis	audio+video erkannt und 3s dekodiert	http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
 OK	RBW (1080p)	Basis	audio+video erkannt und 3s dekodiert	http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
 OK	Radio Weser TV Bremen (576p)	Basis	audio+video erkannt und 3s dekodiert	https://5857499ee635b.streamlock.net/radiowesertv-live/_definst_/mp4:livestreamTV/playlist.m3u8
-OK	NRWision	Basis	audio+video erkannt und 3s dekodiert	https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
-FEHLER	ONE	Basis	https://mcdn-one.ard.de/ardone/hls/master.m3u8: Server returned 403 Forbidden (access denied) 	https://mcdn-one.ard.de/ardone/hls/master.m3u8
-FEHLER	One HD (1080p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x55b5559af540] Error in the pull function. [tls @ 0x55b5559af540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8: Con	https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
 OK	RFH (1080p)	Basis	audio+video erkannt und 3s dekodiert	http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
+FEHLER	ONE	Basis	https://mcdn-one.ard.de/ardone/hls/master.m3u8: Server returned 403 Forbidden (access denied) 	https://mcdn-one.ard.de/ardone/hls/master.m3u8
+FEHLER	One HD (1080p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x55acaf249540] Error in the pull function. [tls @ 0x55acaf249540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8: Con	https://viamotionhsi.netplus.ch/live/eds/onehd/browser-HLS8/onehd.m3u8
 OK	RBW Bitterfeld-Wolfen (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:rbw_high/playlist.m3u8
 FEHLER	Rockland TV (480p) [Not 24/7]	Basis	https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8: Server returned 403 Forbidden (access denied) 	https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/playlist.m3u8
 OK	Regio TV Bodensee	Basis	audio+video erkannt und 3s dekodiert	https://regiotv-b.iptv-playoutcenter.de/regiotv-b/regiotv-b.stream_1/playlist.m3u8
 OK	Regio TV Stuttgart	Basis	audio+video erkannt und 3s dekodiert	https://regiotv-s.iptv-playoutcenter.de/regiotv-s/regiotv-s.stream_1/playlist.m3u8
+FEHLER	NRWision	Basis	ffmpeg: Command '['ffmpeg', '-v', 'error', '-rw_timeout', '12000000', '-i', 'https://fms.nrwision.de/live/ngrp:livestreamHD.stre	https://fms.nrwision.de/live/ngrp:livestreamHD.stream/playlist.m3u8
 FEHLER	Rock Antenne [Not 24/7]	Basis	kein gemeinsames Audio+Video erkannt	https://stream.rockantenne.de/rockantenne/stream/mp3
 FEHLER	SCHLAGER DELUXE	Basis	https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8: Server returned 404 Not Found 	https://sdn-global-live-streaming-packager-cache.3qsdn.com/26658/26658_264_live.m3u8
-FEHLER	Salve TV	Basis	[tcp @ 0x561891e15f40] Connection to tcp://58de7a369a9c4.streamlock.net:443 failed: Connection timed out https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_web/playlist.	https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_web/playlist.m3u8
-OK	Saarland Fernsehen 2 (720p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+FEHLER	Salve TV	Basis	[tcp @ 0x5622cdd51f40] Connection to tcp://58de7a369a9c4.streamlock.net:443 failed: Connection timed out https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_web/playlist.	https://58de7a369a9c4.streamlock.net/salvetv/ngrp:stream_720p_web/playlist.m3u8
 OK	Saarland Fernsehen 1 (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://saarland1.iptv-playoutcenter.de/saarland1/saarland1.stream_1/playlist.m3u8
 FEHLER	Sonus FM TV (1080p) [Not 24/7]	Basis	http://www.sonus.fm:1935/public/stream_source/playlist.m3u8: End of file 	http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
+OK	Saarland Fernsehen 2 (720p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	https://saarland2.iptv-playoutcenter.de/saarland2/saarland2.stream_2/playlist.m3u8
+OK	RiC	Basis	audio+video erkannt und 3s dekodiert	https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 OK	RFO	Basis	audio+video erkannt und 3s dekodiert	https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8
 OK	Seenluft24 (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://h056.video-stream-hosting.de/easycast7-live/_definst_/mp4:livestreamhd20/playlist.m3u8?ref=
-OK	RiC	Basis	audio+video erkannt und 3s dekodiert	https://rictv.iptv-playoutcenter.de/rictv/rictv-web/playlist.m3u8
 FEHLER	Phoenix (720p) [Geo-blocked]	Basis	https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8: Server returned 403 Forbidden (access denied) 	https://zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8
 FEHLER	Phoenix	Basis	https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8: Server returned 403 Forbidden (access denied) 	https://zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8
 FEHLER	phoenix HD	Kandidaten-Archiv	https://netplus.zappr.stream/phoenixhd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/phoenixhd.m3u8
-FEHLER	phoenix (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x558b4ac2a540] Error in the pull function. [tls @ 0x558b4ac2a540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-dash/phoenixhd.m	https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-dash/phoenixhd.mpd
-FEHLER	phoenix (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x55fd9818e540] Error in the pull function. [tls @ 0x55fd9818e540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m	https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
-FEHLER	SRF (1080p)	Basis	[tcp @ 0x563b62559f40] Connection to tcp://58de7a369a9c4.streamlock.net:443 failed: Connection timed out https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8: Connect	https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
+FEHLER	phoenix (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x55b8f6457540] Error in the pull function. [tls @ 0x55b8f6457540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-dash/phoenixhd.m	https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-dash/phoenixhd.mpd
+FEHLER	phoenix (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x558943504540] Error in the pull function. [tls @ 0x558943504540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m	https://viamotionhsi.netplus.ch/live/eds/phoenixhd/browser-HLS8/phoenixhd.m3u8
+FEHLER	SRF (1080p)	Basis	[tcp @ 0x564f32b17f40] Connection to tcp://58de7a369a9c4.streamlock.net:443 failed: Connection timed out https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8: Connect	https://58de7a369a9c4.streamlock.net/srf/stream_720p/playlist.m3u8
 OK	Sophia TV (720p)	Basis	audio+video erkannt und 3s dekodiert	https://bild-und-ton.stream/sophiatv-en/smil:sophia-tv-en.smil/playlist.m3u8
 OK	Sophia TV Español (720p)	Basis	audio+video erkannt und 3s dekodiert	https://bild-und-ton.stream/sophiatv-es/smil:sophia-tv-es.smil/playlist.m3u8
 FEHLER	SWR Baden-Württemberg	Basis	https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8: Server returned 403 Forbidden (access denied) 	https://swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master.m3u8
-OK	Sender Neu Jerusalem (576p)	Basis	audio+video erkannt und 3s dekodiert	https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
 FEHLER	SWR Rheinland-Pfalz	Basis	https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8: Server returned 403 Forbidden (access denied) 	https://swrrpd-hls.akamaized.net/hls/live/2018676/swrrpd/master.m3u8
-OK	RT DE (1080p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 OK	Sophia TV Français (720p)	Basis	audio+video erkannt und 3s dekodiert	https://bild-und-ton.stream/sophiatv-fr/smil:sophia-tv-fr.smil/playlist.m3u8
+OK	Sender Neu Jerusalem (576p)	Basis	audio+video erkannt und 3s dekodiert	https://bild-und-ton.stream/snj-de/snj-de.smil/.m3u8
 OK	Sophia TV Italy (720p)	Basis	audio+video erkannt und 3s dekodiert	https://bild-und-ton.stream/sophiatv-it/smil:sophia-tv-it.smil/playlist.m3u8
+OK	RT DE (1080p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	https://rt-ger.rttv.com/dvr/rtdeutsch/playlist.m3u8
 OK	teltOwkanal (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd8/playlist.m3u8
-OK	Terra Mater WILD English (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 OK	Terra Mater WILD	Basis	audio+video erkannt und 3s dekodiert	https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
+OK	Terra Mater WILD English (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://amg01775-amg01775c1-amgplt0343.playout.now3.amagi.tv/playlist/amg01775-amg01775c1-amgplt0343/playlist.m3u8
 OK	Tagesschau24	Basis	audio+video erkannt und 3s dekodiert	https://tagesschau.akamaized.net/hls/live/2020115/tagesschau/tagesschau_1/master.m3u8
-OK	Tide TV (1080p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8
-OK	TV Oberfranken	Basis	audio+video erkannt und 3s dekodiert	https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
-OK	TV Mainfranken	Basis	audio+video erkannt und 3s dekodiert	https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
-FEHLER	Unserding (720p) [Geo-blocked]	Basis	https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/index.m3u8: Server returned 403 Forbidden (access denied) 	https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/index.m3u8
 OK	TV Ingolstadt	Basis	audio+video erkannt und 3s dekodiert	https://stream01.welocal.stream/stream/fhd-tvingolstadt_44349/ngrp:stream_all/playlist.m3u8
+FEHLER	Unserding (720p) [Geo-blocked]	Basis	https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/index.m3u8: Server returned 403 Forbidden (access denied) 	https://srde.akamaized.net/hls/live/2031842/visualradio-unserding/index.m3u8
 OK	SWR 3 Visual Radio (720p)	Basis	audio+video erkannt und 3s dekodiert	https://swrswr3vr-hls.akamaized.net/hls/live/2018683/swr3vr/master.m3u8
+OK	Tide TV (1080p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8
+OK	TV Mainfranken	Basis	audio+video erkannt und 3s dekodiert	https://tvtouringw.iptv-playoutcenter.de/tvtouringw/tvtouringw.stream_1/playlist.m3u8
+OK	TV Oberfranken	Basis	audio+video erkannt und 3s dekodiert	https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8
 OK	TVA	Basis	audio+video erkannt und 3s dekodiert	https://tvaktuellr.iptv-playoutcenter.de/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
 OK	SR	Basis	audio+video erkannt und 3s dekodiert	https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
+FEHLER	WDR 1 Live (720p)	Basis	[hls @ 0x557effba9880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00097/master_1328_03218.ts	https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
 OK	TV38 Südost-Niedersachen (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://h057.video-stream-hosting.de/tv38-live/_definst_/smil:livestream.smil/playlist.m3u8?ref=
-FEHLER	WDR 1 Live (720p)	Basis	[hls @ 0x55e823686880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00094/master_1328_03420.ts	https://wdrfsww247.akamaized.net/hls/live/2009628/wdr_msl4_fs247ww/master.m3u8
-FEHLER	WDR	Basis	[hls @ 0x55ea8cbbc880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00094/master_1328_03420.ts	https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
-FEHLER	WDR HD	Kandidaten-Archiv	https://netplus.zappr.stream/wdrhd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/wdrhd.m3u8
 OK	Volksmusik TV	Basis	audio+video erkannt und 3s dekodiert	https://vmtv.iptv-playoutcenter.de/vmtv/vmtv1/playlist.m3u8
-FEHLER	WDR Fernsehen Aachen (720p) [Geo-blocked]	Basis	[hls @ 0x558428bee880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00097/master_1328_01326.ts	https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
-FEHLER	WDR Fernsehen Bielefeld (720p) [Geo-blocked]	Basis	[hls @ 0x56221370a880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00097/master_1328_01326.ts	https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
-FEHLER	WDR Fernsehen Dortmund (720p) [Geo-blocked]	Basis	[hls @ 0x55f79d560880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00097/master_1328_01326.ts	https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
-FEHLER	WDR Fernsehen Duisburg (720p) [Geo-blocked]	Basis	[hls @ 0x55c686f18880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00097/master_1328_01326.ts	https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
-FEHLER	WDR Fernsehen Bonn (720p) [Geo-blocked]	Basis	[hls @ 0x55b82cb78880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00094/master_1328_03420.ts	https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
-FEHLER	WDR Fernsehen Düsseldorf (720p) [Geo-blocked]	Basis	[hls @ 0x55da54bd8880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00097/master_1328_01326.ts	https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
-FEHLER	WDR Fernsehen Essen (720p) [Geo-blocked]	Basis	[hls @ 0x562fb6565880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00097/master_1328_01326.ts	https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
-FEHLER	WDR Fernsehen Köln (720p) [Geo-blocked]	Basis	[hls @ 0x5560e9aed880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00094/master_1328_03259.ts	https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
+FEHLER	WDR	Basis	[hls @ 0x5619ef2d9880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00097/master_1328_01326.ts	https://wdrfs247.akamaized.net/hls/live/681509/wdr_msl4_fs247/index.m3u8
+FEHLER	WDR HD	Kandidaten-Archiv	https://netplus.zappr.stream/wdrhd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/wdrhd.m3u8
+FEHLER	WDR Fernsehen Aachen (720p) [Geo-blocked]	Basis	[hls @ 0x55fbf1e23880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00097/master_1328_03218.ts	https://wdrlokalzeit.akamaized.net/hls/live/2018019-b/wdrlz_aachen/master.m3u8
+FEHLER	WDR Fernsehen Bielefeld (720p) [Geo-blocked]	Basis	[hls @ 0x55f5f52f0880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00097/master_1328_03218.ts	https://wdrlokalzeit.akamaized.net/hls/live/2018026-b/wdrlz_bielefeld/master.m3u8
+FEHLER	WDR Fernsehen Bonn (720p) [Geo-blocked]	Basis	[hls @ 0x55e3e3567880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00097/master_1328_01326.ts	https://wdrlokalzeit.akamaized.net/hls/live/2018021-b/wdrlz_bonn/master.m3u8
+FEHLER	WDR Fernsehen Duisburg (720p) [Geo-blocked]	Basis	[hls @ 0x556b133d0880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00097/master_1328_03218.ts	https://wdrlokalzeit.akamaized.net/hls/live/2018024-b/wdrlz_duisburg/master.m3u8
+FEHLER	WDR Fernsehen Dortmund (720p) [Geo-blocked]	Basis	[hls @ 0x563540506880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00097/master_1328_03218.ts	https://wdrlokalzeit.akamaized.net/hls/live/2018022-b/wdrlz_dortmund/master.m3u8
+FEHLER	WDR Fernsehen Düsseldorf (720p) [Geo-blocked]	Basis	[hls @ 0x55f93e437880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00096/master_1328_02128.ts	https://wdrlokalzeit.akamaized.net/hls/live/2018023-b/wdrlz_duesseldorf/master.m3u8
+FEHLER	WDR Fernsehen Essen (720p) [Geo-blocked]	Basis	[hls @ 0x563276a67880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00096/master_1328_02128.ts	https://wdrlokalzeit.akamaized.net/hls/live/2018027-b/wdrlz_essen/master.m3u8
+FEHLER	WDR Fernsehen Münster (720p) [Geo-blocked]	Basis	[hls @ 0x55a7c9a27880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00096/master_1328_02128.ts	https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
 FEHLER	Welt	Basis	https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8: Server returned 403 Forbidden (access denied) 	https://w-live2weltcms.akamaized.net/hls/live/2041019/Welt-LivePGM/index.m3u8
 FEHLER	WeLT	Kandidaten-Archiv	https://netplus.zappr.stream/n24.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/n24.m3u8
 OK	WELT (576p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://s6.hopslan.com/n24X/index.m3u8
-FEHLER	WDR Fernsehen Münster (720p) [Geo-blocked]	Basis	[hls @ 0x55d023c2f880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00094/master_1328_03420.ts	https://wdrlokalzeit.akamaized.net/hls/live/2018025-b/wdrlz_muensterland/master.m3u8
-FEHLER	WDR Fernsehen Siegen (720p) [Geo-blocked]	Basis	[hls @ 0x5604e8b2f880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00097/master_1328_01326.ts	https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
-FEHLER	WDR Fernsehen Wuppertal (720p) [Geo-blocked]	Basis	[hls @ 0x55ae3fa9e880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00089/master_1328_01382.ts	https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
-OK	YOL TV	Basis	audio+video erkannt und 3s dekodiert	https://live.yoltv.com/hls/stream.m3u8
-OK	Zwei Music Television	Basis	audio+video erkannt und 3s dekodiert	https://zweiapp.b-cdn.net/1080p/index.m3u8
-OK	90210	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
+FEHLER	WDR Fernsehen Siegen (720p) [Geo-blocked]	Basis	[hls @ 0x556ba890b880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00096/master_1328_02128.ts	https://wdrlokalzeit.akamaized.net/hls/live/2018020-b/wdrlz_siegen/master.m3u8
+FEHLER	WDR Fernsehen Köln (720p) [Geo-blocked]	Basis	[hls @ 0x564d356a1880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00097/master_1328_03218.ts	https://wdrlokalzeit.akamaized.net/hls/live/2023550-b/wdrlz_koeln/master.m3u8
 OK	WDR Fernsehen (720p)	Basis	audio+video erkannt und 3s dekodiert	https://wdr-live.ard-mcdn.de/wdr/live/hls/de/master.m3u8
-OK	Alle hassen Chris	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8
-OK	Auction Hunters	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5ede45d077746000072be0fe.m3u8
-OK	Awkward	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
-OK	BBC Travel	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
+OK	YOL TV	Basis	audio+video erkannt und 3s dekodiert	https://live.yoltv.com/hls/stream.m3u8
+FEHLER	WDR Fernsehen Wuppertal (720p) [Geo-blocked]	Basis	[hls @ 0x5605c05f4880] Error when loading first segment 'https://wdrfsww247.akamaized.net/hls/live/2009628-b/wdr_msl4_fs247ww/20260817T083922/master_1328/00097/master_1328_03218.ts	https://wdrlokalzeit.akamaized.net/hls/live/2018028-b/wdrlz_wuppertal/master.m3u8
+OK	Zwei Music Television	Basis	audio+video erkannt und 3s dekodiert	https://zweiapp.b-cdn.net/1080p/index.m3u8
 OK	Welt der Wunder TV (576p)	Basis	audio+video erkannt und 3s dekodiert	https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+OK	90210	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
+OK	Auction Hunters	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5ede45d077746000072be0fe.m3u8
+OK	Alle hassen Chris	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8
+OK	BBC Travel	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
+OK	Beverly Hills 90210	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
+OK	Becker	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8
 FEHLER	RTL HD	Kandidaten-Archiv	https://netplus.zappr.stream/rtl.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/rtl.m3u8
 OK	RTL	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://ma.anixa.tv/clips/stream/rtl/index.m3u8
-OK	Becker	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8
-OK	Beverly Hills 90210	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
+OK	Awkward	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
 OK	BIG BROTHER CLASSIC	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-663e09e4b18d700008e48dcf.m3u8
 OK	CC Pluto TV	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
-OK	Chaos City	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-60afbad343e3840007164348.m3u8
 FEHLER	DAZN Darts x Pluto TV	Kandidaten-Archiv	https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8: Server returned 403 Forbidden (access denied) 	https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
-FEHLER	DAZN Heldinnen x Pluto TV	Kandidaten-Archiv	https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8: Server returned 403 Forbidden (access denied) 	https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 OK	Cheers	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8
-OK	Drake & Josh	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
+OK	Chaos City	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-60afbad343e3840007164348.m3u8
+FEHLER	DAZN Heldinnen x Pluto TV	Kandidaten-Archiv	https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8: Server returned 403 Forbidden (access denied) 	https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
 OK	Comedy Central South Park	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
 OK	Comedy Central	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
+OK	Drake & Josh	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
 FEHLER	Frasier: Berühmte Gäste	Kandidaten-Archiv	https://jmp2.uk/plu-6790fa9e1cfc4aa96dfadcef.m3u8: Server returned 404 Not Found 	https://jmp2.uk/plu-6790fa9e1cfc4aa96dfadcef.m3u8
-OK	FIFA+ German (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
 OK	Frasier	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-62cebf042ffc6d0007c4e59a.m3u8
+OK	FIFA+ German (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
 OK	Germany Shore	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-6447dea7e94c380008dba94c.m3u8
 OK	Grjngo Western Movies (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://amogonetworx-grjngo-3-dk.samsung.wurl.tv/playlist.m3u8
+OK	iCarly	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8
+OK	Ice Pilots	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5ce40f42ba7f7f5ea9518fe1.m3u8
+FEHLER	Love The Planet DE (1080p) [Geo-blocked]	Kandidaten-Archiv	https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8: Server returned 403 Forbidden (access denied) 	https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8
 FEHLER	ZDF (720p) [Geo-blocked]	Basis	https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8: Server returned 403 Forbidden (access denied) 	https://zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8
 FEHLER	ZDF	Basis	http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8: Server returned 403 Forbidden (access denied) 	http://zdf-hls-15.akamaized.net/hls/live/2016498/de/veryhigh/master.m3u8
 FEHLER	ZDF HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/zdfhd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/zdfhd.m3u8
-FEHLER	ZDF HD (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x5642a67b5540] Error in the pull function. [tls @ 0x5642a67b5540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd: Conn	https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
-FEHLER	ZDF HD (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x56359e88e540] Error in the pull function. [tls @ 0x56359e88e540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8: Con	https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
-OK	Ice Pilots	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5ce40f42ba7f7f5ea9518fe1.m3u8
-FEHLER	Love The Planet DE (1080p) [Geo-blocked]	Kandidaten-Archiv	https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8: Server returned 403 Forbidden (access denied) 	https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8
-OK	iCarly	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8
-OK	EWTN Germany (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
+FEHLER	ZDF HD (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x556341c1b540] Error in the pull function. [tls @ 0x556341c1b540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd: Conn	https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-dash/zdfhd.mpd
+FEHLER	ZDF HD (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x5591d99eb540] Error in the pull function. [tls @ 0x5591d99eb540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8: Con	https://viamotionhsi.netplus.ch/live/eds/zdfhd/browser-HLS8/zdfhd.m3u8
 FEHLER	ZDFinfo (720p) [Geo-blocked]	Basis	https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8: Server returned 403 Forbidden (access denied) 	https://zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8
 FEHLER	ZDFinfo	Basis	https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8: Server returned 403 Forbidden (access denied) 	https://zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8
-FEHLER	ZDFinfo HD (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x558501dc9540] Error in the pull function. [tls @ 0x558501dc9540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.m	https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
-FEHLER	ZDFinfo HD (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x5575f8a38540] Error in the pull function. [tls @ 0x5575f8a38540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m	https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8
+FEHLER	ZDFinfo HD (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x5588bbb2c540] Error in the pull function. [tls @ 0x5588bbb2c540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.m	https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-dash/zdfinfohd.mpd
+FEHLER	ZDFinfo HD (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x55f56ac3c540] Error in the pull function. [tls @ 0x55f56ac3c540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m	https://viamotionhsi.netplus.ch/live/eds/zdfinfohd/browser-HLS8/zdfinfohd.m3u8
+OK	Die Neue Zeit (576p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
+OK	EWTN Germany (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://cdn3.wowza.com/1/ZUkxSDBrZHlMbjVn/ZkhNRFNZ/hls/live/playlist.m3u8
+OK	Mission Impossible	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8
 FEHLER	ZDFneo (720p) [Geo-blocked]	Basis	https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8: Server returned 403 Forbidden (access denied) 	https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8
 FEHLER	ZDFneo	Basis	https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8: Server returned 403 Forbidden (access denied) 	https://zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8
-FEHLER	ZDFneo HD (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x55e05e1cb540] Error in the pull function. [tls @ 0x55e05e1cb540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd	https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
-FEHLER	ZDFneo HD (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x561cdad81540] Error in the pull function. [tls @ 0x561cdad81540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u	https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
-OK	Horse & Country TV (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
+FEHLER	ZDFneo HD (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x56195c041540] Error in the pull function. [tls @ 0x56195c041540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd	https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-dash/zdfneohd.mpd
+FEHLER	ZDFneo HD (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x558974278540] Error in the pull function. [tls @ 0x558974278540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u	https://viamotionhsi.netplus.ch/live/eds/zdfneohd/browser-HLS8/zdfneohd.m3u8
 OK	MOVIEDOME (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-615c1e5ce3039400070a0547.m3u8
-OK	Mission Impossible	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8
 OK	kabel eins	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
-OK	Die Neue Zeit (576p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
-OK	MTV Reality (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-685136fb33a52de120bbb086.m3u8
-OK	MTV Catfish TV Show (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8
-OK	MTV Dating (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5caf330ea5068259a32320fd.m3u8
-OK	MTV Pluto TV	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8
+OK	Horse & Country TV (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://hnc-free-viewlift.amagi.tv/HNC_AUSTRALIA.m3u8
 OK	McLeods Töchter	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-66c6fcfc6838ee00085beb1a.m3u8
+OK	MTV Catfish TV Show (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8
+OK	MTV Pluto TV	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8
+OK	MTV Dating (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5caf330ea5068259a32320fd.m3u8
+OK	MTV Reality (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-685136fb33a52de120bbb086.m3u8
 OK	MTV Ridiculousness	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8
 OK	MTV Teen Mom (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8
 OK	MTV	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://ma.anixa.tv/clips/stream/mtv/playlist.php
+OK	Naruto (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8
 OK	N24 Doku	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
 OK	Nick Jr. Club (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
-OK	Nickelodeon Teen (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
-OK	Naruto (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-65d5fc39a25d5e00082895c4.m3u8
 OK	Nickelodeon Toons (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
 OK	Nickelodeon Classics (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
-OK	Perry Mason	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-64eddc3485efec00085b0369.m3u8
-OK	Pluto TV Adult Animation	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8
-OK	Pluto TV Animals	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
-OK	Pluto TV Anime	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8
-FEHLER	Pluto TV Comedy Therapie	Kandidaten-Archiv	https://jmp2.uk/plu-69b968ba255fecb01f602257.m3u8: Server returned 404 Not Found 	https://jmp2.uk/plu-69b968ba255fecb01f602257.m3u8
-OK	Pluto TV Britische Serien	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-677e5a3d7bffa6000808dbf2.m3u8
+OK	Nickelodeon Teen (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
 OK	like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Deutsche Sender",Ost West (576p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	http://hls127.freeott.top:8080/OstWest/video.m3u8
-FEHLER	Pluto TV Ferne Galaxien	Kandidaten-Archiv	https://jmp2.uk/plu-68ada46d5190a45dc9c45af1.m3u8: Server returned 404 Not Found 	https://jmp2.uk/plu-68ada46d5190a45dc9c45af1.m3u8
-FEHLER	Pluto TV Fran: Beste Mama-Momente	Kandidaten-Archiv	https://jmp2.uk/plu-69b968e011fc7b9e27c0d958.m3u8: Server returned 404 Not Found 	https://jmp2.uk/plu-69b968e011fc7b9e27c0d958.m3u8
-OK	Pluto TV Action	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-65004605110545000842035d.m3u8
+OK	Perry Mason	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-64eddc3485efec00085b0369.m3u8
+FEHLER	Pluto TV Comedy Therapie	Kandidaten-Archiv	https://jmp2.uk/plu-69b968ba255fecb01f602257.m3u8: Server returned 404 Not Found 	https://jmp2.uk/plu-69b968ba255fecb01f602257.m3u8
+OK	Pluto TV Animals	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
+OK	Pluto TV Adult Animation	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8
+OK	Pluto TV Anime	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8
 OK	like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Deutsche Sender",Ost West 24 (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	http://stream.mcquack.net/455/index.m3u8
 OK	Pluto TV Bud & Terence	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-64be7398e4391c0008cdedfe.m3u8
+FEHLER	Pluto TV Ferne Galaxien	Kandidaten-Archiv	https://jmp2.uk/plu-68ada46d5190a45dc9c45af1.m3u8: Server returned 404 Not Found 	https://jmp2.uk/plu-68ada46d5190a45dc9c45af1.m3u8
+OK	Pluto TV Britische Serien	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-677e5a3d7bffa6000808dbf2.m3u8
+FEHLER	Pluto TV Fran: Beste Mama-Momente	Kandidaten-Archiv	https://jmp2.uk/plu-69b968e011fc7b9e27c0d958.m3u8: Server returned 404 Not Found 	https://jmp2.uk/plu-69b968e011fc7b9e27c0d958.m3u8
 OK	Pluto TV Crime	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
 OK	Pluto TV Deutsche Comedy	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-6672f49f61a39900089db68e.m3u8
-OK	Pluto TV Explore	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
+OK	Pluto TV Action	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-65004605110545000842035d.m3u8
 OK	Pluto TV Food	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
+OK	Pluto TV History	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8
+OK	Pluto TV Haialarm	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-69b015c5d29cc97de7da4af8.m3u8
 OK	Pluto TV Historische Serien	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
 FEHLER	Pluto TV Laughs in Spanish	Kandidaten-Archiv	https://jmp2.uk/plu-69a554179a3f3bb488c7d2be.m3u8: Server returned 404 Not Found 	https://jmp2.uk/plu-69a554179a3f3bb488c7d2be.m3u8
-OK	Pluto TV Haialarm	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-69b015c5d29cc97de7da4af8.m3u8
-OK	Pluto TV History	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8
-OK	Pluto TV Kultfilme	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
-OK	Pluto TV Horror-Serien	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-67ff7d9c7fc25e0e72451bc9.m3u8
 OK	Pluto TV Horror	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8
 OK	Pluto TV Kult Comedies	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-66337de656fc840008ff7a65.m3u8
+OK	Pluto TV Horror-Serien	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-67ff7d9c7fc25e0e72451bc9.m3u8
+OK	Pluto TV Kultfilme	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
 OK	Pluto TV Movies	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
 OK	Pluto TV Mystery	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
-OK	Pluto TV Nature	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
+OK	Pluto TV Explore	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
 OK	Pluto TV Paranormal	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8
 OK	Pluto TV Nordic Crime	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-67d984408d8dc3d7754dccf2.m3u8
+OK	Pluto TV Nature	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
 OK	Pluto TV Romance	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
 OK	Pluto TV Sci-Fi	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8
-OK	Pluto TV Reportagen	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8
 OK	Pluto TV Science	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
-OK	Pluto TV Polizeiserien	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
-OK	Pluto TV Snooker 900 (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
+OK	Pluto TV Reportagen	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8
 OK	Pluto TV Serie	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
+OK	Pluto TV Sitcoms	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
+OK	Pluto TV Snooker 900 (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
 OK	Pluto TV Space	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
+FEHLER	Pluto TV Worst of Bundy	Kandidaten-Archiv	https://jmp2.uk/plu-69b968ca1c36025fd0a3d92d.m3u8: Server returned 404 Not Found 	https://jmp2.uk/plu-69b968ca1c36025fd0a3d92d.m3u8
 OK	Pluto TV Star Trek: Animation	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-69492467ae33e24d916e56cf.m3u8
 OK	Pluto TV Star Trek	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
-OK	Pluto TV Sitcoms	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
-FEHLER	Pluto TV Worst of Bundy	Kandidaten-Archiv	https://jmp2.uk/plu-69b968ca1c36025fd0a3d92d.m3u8: Server returned 404 Not Found 	https://jmp2.uk/plu-69b968ca1c36025fd0a3d92d.m3u8
+OK	Pluto TV Western	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8
+OK	Pluto TV Polizeiserien	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
 OK	Pluto TV True Crime	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-615333098185f00008715a56.m3u8
 OK	Pluto TV Weihnachten im Sommer	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-642ad072283aa4000806148c.m3u8
 OK	Pluto TV Western Serien	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-682453215c646751955e1204.m3u8
-OK	Pluto TV Western	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8
-OK	Red Bull TV DE (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
 OK	rbb Fernsehen	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8
-OK	Sabrina Total verhext!	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
-FEHLER	ProSieben (576p)	Kandidaten-Archiv	[tcp @ 0x556f9bfb0f40] Connection to tcp://85.187.13.40:18000 failed: Connection timed out http://85.187.13.40:18000/ProSieben: Connection timed out 	http://85.187.13.40:18000/ProSieben
+OK	Red Bull TV DE (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
+FEHLER	ProSieben (576p)	Kandidaten-Archiv	[tcp @ 0x55564e7d5f40] Connection to tcp://85.187.13.40:18000 failed: Connection timed out http://85.187.13.40:18000/ProSieben: Connection timed out 	http://85.187.13.40:18000/ProSieben
 OK	ProSieben (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+OK	Sabrina Total verhext!	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
 OK	SAT.1 Gold (576p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+OK	Rakuten TV Action Movies Germany (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
 OK	South Park: Butters Collection	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
-OK	South Park: Cartman Collection	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
 OK	sixx	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
-OK	Rakuten TV Family Movies Germany (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
-OK	South Park: Kenny Collection	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
 OK	Rakuten TV Drama Movies Germany (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://968754c2483045c1a9a7f677caec35b6.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6096/master.m3u8
-OK	Rakuten TV Top Movies Germany (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
+OK	South Park: Kenny Collection	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
+OK	South Park: Cartman Collection	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
+OK	Rakuten TV Comedy Movies Germany (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
 OK	South Park: Stan Collection	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
-FEHLER	like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Deutsche Sender",Sportdigital FUSSBALL	Kandidaten-Archiv	https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8: Server returned 403 Forbidden (access denied) 	https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8
-OK	South Park: Kyle Collection	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
 OK	South Park: Original Version	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
-FEHLER	Super RTL HD (720p)	Kandidaten-Archiv	https://forsizero.github.io/iptv/m3u/superrtlhd.m3u: Invalid data found when processing input 	https://forsizero.github.io/iptv/m3u/superrtlhd.m3u
 OK	SpongeBob Schwammkopf (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
 OK	SPIEGEL TV (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
-OK	Rakuten TV Comedy Movies Germany (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://ecac08c9e2214375b907d6825aaf9a01.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6182/master.m3u8
+OK	Rakuten TV Top Movies Germany (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://cbb622b29f5d43b598991f3fa19de291.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5985/master.m3u8
+OK	South Park: Kyle Collection	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
+FEHLER	like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Deutsche Sender",Sportdigital FUSSBALL	Kandidaten-Archiv	https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8: Server returned 403 Forbidden (access denied) 	https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8
+FEHLER	Super RTL HD (720p)	Kandidaten-Archiv	https://forsizero.github.io/iptv/m3u/superrtlhd.m3u: Invalid data found when processing input 	https://forsizero.github.io/iptv/m3u/superrtlhd.m3u
 OK	Strongman Champions League (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://rightsboosterltd-scl-2-eu.rakuten.wurl.tv/playlist.m3u8
-OK	Rakuten TV Action Movies Germany (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://284824cf70404fdfb6ddf9349009c710.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6066/master.m3u8
-OK	Star Trek: The Next Generation	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
-OK	Star Trek: The Original Series	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8
 OK	Takeshi's Castle	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
-OK	The L Word – Wenn Frauen lieben	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8
-FEHLER	RTS 1 HD 1080p	Kandidaten-Archiv	https://netplus.zappr.stream/rts1hd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/rts1hd.m3u8
+OK	Star Trek: The Next Generation	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
+OK	Rakuten TV Family Movies Germany (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://af230031eeac45f3b78d4f8a13265105.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6209/master.m3u8
 OK	Totally Turtles (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
+OK	The L Word – Wenn Frauen lieben	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8
+OK	Star Trek: The Original Series	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8
+FEHLER	RTS 1 HD 1080p	Kandidaten-Archiv	https://netplus.zappr.stream/rts1hd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/rts1hd.m3u8
 FEHLER	TF1 CH HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/tf1hd.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/tf1hd.m3u8
-OK	World Poker Tour	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
-OK	XITE Hits Germany (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
 FEHLER	RTS 2 HD 1080p	Kandidaten-Archiv	https://netplus.zappr.stream/rts2hd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/rts2hd.m3u8
 FEHLER	France3 HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/france3hd.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/france3hd.m3u8
+OK	World Poker Tour	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
 FEHLER	France5 HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/france5hd.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/france5hd.m3u8
+FEHLER	France2 HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/france2hd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/france2hd.m3u8
 FEHLER	M6 CH HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/m6hd.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/m6hd.m3u8
 FEHLER	Canal9 FHD	Kandidaten-Archiv	https://netplus.zappr.stream/canal9.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/canal9.m3u8
-FEHLER	Léman bleu HD	Kandidaten-Archiv	https://netplus.zappr.stream/lemanbleu.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/lemanbleu.m3u8
+OK	XITE Hits Germany (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://d726x48n2pd5h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-skxr1pazhltvp/XITE_Hits.m3u8
+OK	Zee One German (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVPbmVfSExT/playlist.m3u8
 FEHLER	LA TELE HD	Kandidaten-Archiv	https://netplus.zappr.stream/latele.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/latele.m3u8
-FEHLER	Canal Alpha JU HD	Kandidaten-Archiv	https://netplus.zappr.stream/canalalphaju.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/canalalphaju.m3u8
-FEHLER	Canal Alpha NE HD	Kandidaten-Archiv	https://netplus.zappr.stream/canalalphane.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/canalalphane.m3u8
-FEHLER	TMC HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/tmc.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/tmc.m3u8
-FEHLER	France2 HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/france2hd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/france2hd.m3u8
 FEHLER	France4 HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/france4hd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/france4hd.m3u8
-FEHLER	carac1 HD	Kandidaten-Archiv	https://netplus.zappr.stream/rougetv.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/rougetv.m3u8
+FEHLER	Léman bleu HD	Kandidaten-Archiv	https://netplus.zappr.stream/lemanbleu.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/lemanbleu.m3u8
+FEHLER	Canal Alpha JU HD	Kandidaten-Archiv	https://netplus.zappr.stream/canalalphaju.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/canalalphaju.m3u8
+FEHLER	TMC HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/tmc.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/tmc.m3u8
+FEHLER	Canal Alpha NE HD	Kandidaten-Archiv	https://netplus.zappr.stream/canalalphane.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/canalalphane.m3u8
 FEHLER	W9 HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/w9.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/w9.m3u8
-FEHLER	T18 HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/t18.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/t18.m3u8
+FEHLER	carac1 HD	Kandidaten-Archiv	https://netplus.zappr.stream/rougetv.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/rougetv.m3u8
 FEHLER	TFX HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/nt1.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/nt1.m3u8
+FEHLER	T18 HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/t18.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/t18.m3u8
 FEHLER	CSTAR HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/d17.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/d17.m3u8
 FEHLER	AB1 720p	Kandidaten-Archiv	https://netplus.zappr.stream/ab1.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/ab1.m3u8
 FEHLER	RTL9 HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/rtl9.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/rtl9.m3u8
 FEHLER	TF1 Series Films HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/hd1.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/hd1.m3u8
 FEHLER	6ter CH HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/6ter.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/6ter.m3u8
 FEHLER	NOVO19 HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/novo19.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/novo19.m3u8
-OK	Zee One German (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVPbmVfSExT/playlist.m3u8
-FEHLER	RMC Life HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/cherie25.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/cherie25.m3u8
 FEHLER	RMC STORY HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/numero23.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/numero23.m3u8
+FEHLER	RMC Life HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/cherie25.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/cherie25.m3u8
 FEHLER	blue zoom F HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/bluezoomfr.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/bluezoomfr.m3u8
 FEHLER	La chaine L'EQUIPE 720p	Kandidaten-Archiv	https://netplus.zappr.stream/lequipe21.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/lequipe21.m3u8
-FEHLER	AB3 720p	Kandidaten-Archiv	https://netplus.zappr.stream/ab3.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/ab3.m3u8
 FEHLER	TCM CINEMA F HD	Kandidaten-Archiv	https://netplus.zappr.stream/tcm.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/tcm.m3u8
-FEHLER	gulli 720p	Kandidaten-Archiv	https://netplus.zappr.stream/gulli.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/gulli.m3u8
+FEHLER	AB3 720p	Kandidaten-Archiv	https://netplus.zappr.stream/ab3.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/ab3.m3u8
 FEHLER	CARTOON NETWORK 720p	Kandidaten-Archiv	https://netplus.zappr.stream/cartoonnetwork.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/cartoonnetwork.m3u8
-FEHLER	PLANETE+ HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/planeteplus.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/planeteplus.m3u8
-FEHLER	TREK HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/escales.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/escales.m3u8
+FEHLER	gulli 720p	Kandidaten-Archiv	https://netplus.zappr.stream/gulli.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/gulli.m3u8
 FEHLER	RMC DECOUVERTE HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/rmcdecouverte.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/rmcdecouverte.m3u8
+FEHLER	TREK HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/escales.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/escales.m3u8
+FEHLER	PLANETE+ HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/planeteplus.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/planeteplus.m3u8
 FEHLER	ANIMAUX HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/animaux.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/animaux.m3u8
-FEHLER	BFM TV HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/bfmtv.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/bfmtv.m3u8
 FEHLER	France24 HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/france24.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/france24.m3u8
+FEHLER	BFM TV HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/bfmtv.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/bfmtv.m3u8
 FEHLER	euronews F HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/euronews.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/euronews.m3u8
-FEHLER	CNEWS HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/itele.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/itele.m3u8
 FEHLER	TV5 MONDE FBSM HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/tv5mondefbs.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/tv5mondefbs.m3u8
+FEHLER	CNEWS HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/itele.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/itele.m3u8
 FEHLER	LCI HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/lci.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/lci.m3u8
 FEHLER	BFM BUSINESS HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/bfmbusiness.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/bfmbusiness.m3u8
 FEHLER	LCP8 Public Senat HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/lcp.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/lcp.m3u8
-FEHLER	mezzo HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/mezzo.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/mezzo.m3u8
-FEHLER	Franceinfo HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/franceinfo.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/franceinfo.m3u8
 FEHLER	TVMONACO HD	Kandidaten-Archiv	https://netplus.zappr.stream/monacotv.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/monacotv.m3u8
+FEHLER	Franceinfo HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/franceinfo.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/franceinfo.m3u8
+FEHLER	arte F HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/artehd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/artehd.m3u8
 FEHLER	carac2 HD	Kandidaten-Archiv	https://netplus.zappr.stream/onetv.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/onetv.m3u8
-FEHLER	carac3 HD	Kandidaten-Archiv	https://netplus.zappr.stream/lfmtv.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/lfmtv.m3u8
+FEHLER	mezzo HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/mezzo.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/mezzo.m3u8
 FEHLER	MTV France HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/mtvfrance.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/mtvfrance.m3u8
+FEHLER	carac3 HD	Kandidaten-Archiv	https://netplus.zappr.stream/lfmtv.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/lfmtv.m3u8
 FEHLER	kto	Kandidaten-Archiv	https://netplus.zappr.stream/kto.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/kto.m3u8
 FEHLER	canal+ en clair CH	Kandidaten-Archiv	https://netplus.zappr.stream/canalplusclair.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/canalplusclair.m3u8
-FEHLER	arte F HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/artehd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/artehd.m3u8
-FEHLER	carac5 HD	Kandidaten-Archiv	https://netplus.zappr.stream/teleswizz.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/teleswizz.m3u8
 FEHLER	carac4 HD	Kandidaten-Archiv	https://netplus.zappr.stream/tvsuisseplus.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/tvsuisseplus.m3u8
 FEHLER	Canal J HD	Kandidaten-Archiv	https://netplus.zappr.stream/canalj.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/canalj.m3u8
+FEHLER	nrtv HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/nrtv.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/nrtv.m3u8
+FEHLER	carac5 HD	Kandidaten-Archiv	https://netplus.zappr.stream/teleswizz.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/teleswizz.m3u8
 FEHLER	DieuTV HD	Kandidaten-Archiv	https://netplus.zappr.stream/maxtv.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/maxtv.m3u8
 FEHLER	tvm3 HD	Kandidaten-Archiv	https://netplus.zappr.stream/tvm3.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/tvm3.m3u8
-FEHLER	nrtv HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/nrtv.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/nrtv.m3u8
 FEHLER	8Mont-Blanc HD	Kandidaten-Archiv	https://netplus.zappr.stream/tv8montblanc.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/tv8montblanc.m3u8
 FEHLER	Val TV HD	Kandidaten-Archiv	https://netplus.zappr.stream/valtv.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/valtv.m3u8
 FEHLER	SRF info HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/srfinfo.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/srfinfo.m3u8
 FEHLER	RTLZWEI HD	Kandidaten-Archiv	https://netplus.zappr.stream/rtl2.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/rtl2.m3u8
-OK	The Graham Norton Show (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
 FEHLER	SRF1 HD 1080p	Kandidaten-Archiv	https://netplus.zappr.stream/srf1hd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/srf1hd.m3u8
 FEHLER	SRF2 HD 1080p	Kandidaten-Archiv	https://netplus.zappr.stream/srf2hd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/srf2hd.m3u8
 FEHLER	ORF1 HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/orf1.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/orf1.m3u8
 FEHLER	ARD1 Das Erste HD	Kandidaten-Archiv	https://netplus.zappr.stream/daserstehd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/daserstehd.m3u8
-FEHLER	kanal9 HD	Kandidaten-Archiv	https://netplus.zappr.stream/kanal9.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/kanal9.m3u8
 FEHLER	sport1 HD	Kandidaten-Archiv	https://netplus.zappr.stream/sport1.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/sport1.m3u8
+FEHLER	kanal9 HD	Kandidaten-Archiv	https://netplus.zappr.stream/kanal9.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/kanal9.m3u8
 FEHLER	TeleBärn HD	Kandidaten-Archiv	https://netplus.zappr.stream/telebaern.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/telebaern.m3u8
 FEHLER	tv24 HD	Kandidaten-Archiv	https://netplus.zappr.stream/tv24.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/tv24.m3u8
+FEHLER	SWR HD	Kandidaten-Archiv	https://netplus.zappr.stream/swrbw.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/swrbw.m3u8
 FEHLER	blue zoom D HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/bluezoomde.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/bluezoomde.m3u8
 FEHLER	Tele Bielingue HD	Kandidaten-Archiv	https://netplus.zappr.stream/telebielingue.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/telebielingue.m3u8
-FEHLER	SWR HD	Kandidaten-Archiv	https://netplus.zappr.stream/swrbw.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/swrbw.m3u8
+OK	The Graham Norton Show (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://amg00654-itv-amg00654c35-rakuten-gb-7598.playouts.now.amagi.tv/playlist.m3u8
 FEHLER	ORF2 HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/orf2.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/orf2.m3u8
 FEHLER	BR HD	Kandidaten-Archiv	https://netplus.zappr.stream/brhdsud.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/brhdsud.m3u8
+OK	World of Freesports (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 FEHLER	ndr HD	Kandidaten-Archiv	https://netplus.zappr.stream/ndr.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/ndr.m3u8
-FEHLER	zdf neo HD	Kandidaten-Archiv	https://netplus.zappr.stream/zdfneohd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/zdfneohd.m3u8
 FEHLER	mdr HD	Kandidaten-Archiv	https://netplus.zappr.stream/mdr.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/mdr.m3u8
+FEHLER	zdf neo HD	Kandidaten-Archiv	https://netplus.zappr.stream/zdfneohd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/zdfneohd.m3u8
 FEHLER	ntv	Kandidaten-Archiv	https://netplus.zappr.stream/ntv.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/ntv.m3u8
 FEHLER	eurosport1 D	Kandidaten-Archiv	https://netplus.zappr.stream/eurosportde.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/eurosportde.m3u8
 FEHLER	comedy central D HD	Kandidaten-Archiv	https://netplus.zappr.stream/comedycentral.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/comedycentral.m3u8
 FEHLER	comedy central+1 D	Kandidaten-Archiv	https://netplus.zappr.stream/comedycentralnick.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/comedycentralnick.m3u8
-OK	World of Freesports (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://mainstreammedia-worldoffreesportsintl-rakuten.amagi.tv/playlist.m3u8
 FEHLER	zdf info HD	Kandidaten-Archiv	https://netplus.zappr.stream/zdfinfohd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/zdfinfohd.m3u8
 FEHLER	RiC D	Kandidaten-Archiv	https://netplus.zappr.stream/ric.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/ric.m3u8
 FEHLER	DMAX CH	Kandidaten-Archiv	https://netplus.zappr.stream/dmax.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/dmax.m3u8
@@ -614,30 +613,30 @@ FEHLER	tele5 D	Kandidaten-Archiv	https://netplus.zappr.stream/tele5.m3u8: Server
 FEHLER	ServusTV HD	Kandidaten-Archiv	https://netplus.zappr.stream/servustvhd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/servustvhd.m3u8
 FEHLER	atv2 HD	Kandidaten-Archiv	https://netplus.zappr.stream/atv.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/atv.m3u8
 FEHLER	rbb HD	Kandidaten-Archiv	https://netplus.zappr.stream/rbb.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/rbb.m3u8
-OK	SAT.1 HD	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
 FEHLER	STAR TV D HD	Kandidaten-Archiv	https://netplus.zappr.stream/startv.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/startv.m3u8
 FEHLER	ARD one HD	Kandidaten-Archiv	https://netplus.zappr.stream/onehd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/onehd.m3u8
+OK	SAT.1 HD	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://dash4.antik.sk/live/test_sat_eins_tizen/playlist.m3u8
 FEHLER	RSI La 1 HD 1080p	Kandidaten-Archiv	https://netplus.zappr.stream/rsila1hd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/rsila1hd.m3u8
 FEHLER	RSI La 2 HD 1080p	Kandidaten-Archiv	https://netplus.zappr.stream/rsila2hd.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/rsila2hd.m3u8
+FEHLER	Rai 1 HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/rai1.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/rai1.m3u8
 FEHLER	like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Deutsche Sender",TVRUS	Kandidaten-Archiv	http://213.91.179.28:8000/play/a082: Server returned 404 Not Found 	http://213.91.179.28:8000/play/a082
 OK	like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Deutsche Sender",TVRUS+	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	http://83.228.75.166:8000/play/a0aq
 FEHLER	Rai 2 HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/rai2.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/rai2.m3u8
 FEHLER	Rai News24 HD	Kandidaten-Archiv	https://netplus.zappr.stream/rainews.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/rainews.m3u8
 FEHLER	Rai 3 HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/rai3.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/rai3.m3u8
-FEHLER	Rai 1 HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/rai1.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/rai1.m3u8
-FEHLER	Rai Sport HD	Kandidaten-Archiv	https://netplus.zappr.stream/raisport1.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/raisport1.m3u8
-FEHLER	LA7 HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/la7.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/la7.m3u8
 FEHLER	Italia1 HD	Kandidaten-Archiv	https://netplus.zappr.stream/italia1.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/italia1.m3u8
-FEHLER	canale5 HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/canale5.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/canale5.m3u8
+FEHLER	Rai Sport HD	Kandidaten-Archiv	https://netplus.zappr.stream/raisport1.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/raisport1.m3u8
 FEHLER	Rete4 HD	Kandidaten-Archiv	https://netplus.zappr.stream/rete4.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/rete4.m3u8
+FEHLER	LA7 HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/la7.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/la7.m3u8
+FEHLER	canale5 HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/canale5.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/canale5.m3u8
 FEHLER	DMAX Italia HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/dmaxitalia.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/dmaxitalia.m3u8
 FEHLER	CANALE Italia	Kandidaten-Archiv	https://netplus.zappr.stream/canaleit.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/canaleit.m3u8
+FEHLER	Rai Storia FHD	Kandidaten-Archiv	https://netplus.zappr.stream/raistoria.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/raistoria.m3u8
 FEHLER	Rai Gulp HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/raigulp.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/raigulp.m3u8
 FEHLER	VIDEO ITALIA HD	Kandidaten-Archiv	https://netplus.zappr.stream/videoitalia.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/videoitalia.m3u8
+FEHLER	Rai Scuola HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/raiscuola.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/raiscuola.m3u8
 FEHLER	nove HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/nove.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/nove.m3u8
 FEHLER	LA7 CINEMA HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/la7d.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/la7d.m3u8
-FEHLER	Rai Storia FHD	Kandidaten-Archiv	https://netplus.zappr.stream/raistoria.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/raistoria.m3u8
-FEHLER	Rai Scuola HD 720p	Kandidaten-Archiv	https://netplus.zappr.stream/raiscuola.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/raiscuola.m3u8
 FEHLER	BBC NEWS HD	Kandidaten-Archiv	https://netplus.zappr.stream/bbcworld.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/bbcworld.m3u8
 FEHLER	BBC TWO HD	Kandidaten-Archiv	https://netplus.zappr.stream/bbc2.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/bbc2.m3u8
 FEHLER	BBC THREE CBBC HD	Kandidaten-Archiv	https://netplus.zappr.stream/bbc3cbbc.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/bbc3cbbc.m3u8
@@ -645,13 +644,13 @@ FEHLER	BBC FOUR CBeebies HD	Kandidaten-Archiv	https://netplus.zappr.stream/bbc4c
 FEHLER	itv2 HD	Kandidaten-Archiv	https://netplus.zappr.stream/itv2.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/itv2.m3u8
 FEHLER	sky news	Kandidaten-Archiv	https://netplus.zappr.stream/skynews.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/skynews.m3u8
 FEHLER	cnn europe HD	Kandidaten-Archiv	https://netplus.zappr.stream/cnn.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/cnn.m3u8
-FEHLER	itv3 HD	Kandidaten-Archiv	https://netplus.zappr.stream/itv3.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/itv3.m3u8
 FEHLER	AlJazeera En HD	Kandidaten-Archiv	https://netplus.zappr.stream/aljazeera.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/aljazeera.m3u8
 FEHLER	CNBC 720p	Kandidaten-Archiv	https://netplus.zappr.stream/cnbc.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/cnbc.m3u8
 FEHLER	bloomberg HD	Kandidaten-Archiv	https://netplus.zappr.stream/bloomberg.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/bloomberg.m3u8
 FEHLER	QUEST HD	Kandidaten-Archiv	https://netplus.zappr.stream/quest.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/quest.m3u8
-FEHLER	channel4 HD	Kandidaten-Archiv	https://netplus.zappr.stream/channel4.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/channel4.m3u8
+FEHLER	itv3 HD	Kandidaten-Archiv	https://netplus.zappr.stream/itv3.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/itv3.m3u8
 FEHLER	itv4 HD	Kandidaten-Archiv	https://netplus.zappr.stream/itv4.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/itv4.m3u8
+FEHLER	channel4 HD	Kandidaten-Archiv	https://netplus.zappr.stream/channel4.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/channel4.m3u8
 FEHLER	FILM4	Kandidaten-Archiv	https://netplus.zappr.stream/film4.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/film4.m3u8
 FEHLER	More4	Kandidaten-Archiv	https://netplus.zappr.stream/more4.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/more4.m3u8
 FEHLER	food network E HD	Kandidaten-Archiv	https://netplus.zappr.stream/foodnetwork.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/foodnetwork.m3u8
@@ -659,199 +658,199 @@ FEHLER	TVCNEWS	Kandidaten-Archiv	https://netplus.zappr.stream/tvcnews.m3u8: Serv
 FEHLER	NHK WORLD JAPAN HD	Kandidaten-Archiv	https://netplus.zappr.stream/nhk.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/nhk.m3u8
 FEHLER	Rede Record internacional HD	Kandidaten-Archiv	https://netplus.zappr.stream/rederecordinternacional.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/rederecordinternacional.m3u8
 FEHLER	tve internacional HD	Kandidaten-Archiv	https://netplus.zappr.stream/tveinternacional.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/tveinternacional.m3u8
-FEHLER	24h HD	Kandidaten-Archiv	https://netplus.zappr.stream/canal24horas.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/canal24horas.m3u8
-FEHLER	Aragon TV HD	Kandidaten-Archiv	https://netplus.zappr.stream/aragontv.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/aragontv.m3u8
-FEHLER	star ES HD	Kandidaten-Archiv	https://netplus.zappr.stream/starhd.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/starhd.m3u8
 FEHLER	channel5 HD	Kandidaten-Archiv	https://netplus.zappr.stream/channel5.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/channel5.m3u8
-FEHLER	Al Arabiya HD	Kandidaten-Archiv	https://netplus.zappr.stream/alarabiya.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/alarabiya.m3u8
+FEHLER	Aragon TV HD	Kandidaten-Archiv	https://netplus.zappr.stream/aragontv.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/aragontv.m3u8
+FEHLER	24h HD	Kandidaten-Archiv	https://netplus.zappr.stream/canal24horas.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/canal24horas.m3u8
+FEHLER	star ES HD	Kandidaten-Archiv	https://netplus.zappr.stream/starhd.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/starhd.m3u8
+FEHLER	RTP mundo_	Kandidaten-Archiv	https://netplus.zappr.stream/rtpi.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/rtpi.m3u8
 FEHLER	Record news internacional HD	Kandidaten-Archiv	https://netplus.zappr.stream/recordnews.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/recordnews.m3u8
+FEHLER	Al Arabiya HD	Kandidaten-Archiv	https://netplus.zappr.stream/alarabiya.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/alarabiya.m3u8
 FEHLER	Al Maghribia HD	Kandidaten-Archiv	https://netplus.zappr.stream/almaghribia.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/almaghribia.m3u8
 FEHLER	Al Masriyah HD	Kandidaten-Archiv	https://netplus.zappr.stream/almasriyah.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/almasriyah.m3u8
 FEHLER	DMSAT	Kandidaten-Archiv	https://netplus.zappr.stream/dmsat.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/dmsat.m3u8
 FEHLER	show turk HD	Kandidaten-Archiv	https://netplus.zappr.stream/showturk.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/showturk.m3u8
-FEHLER	RTP mundo_	Kandidaten-Archiv	https://netplus.zappr.stream/rtpi.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/rtpi.m3u8
 FEHLER	EUROD HD	Kandidaten-Archiv	https://netplus.zappr.stream/eurod.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/eurod.m3u8
 FEHLER	DUNA HD	Kandidaten-Archiv	https://netplus.zappr.stream/duna.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/duna.m3u8
 FEHLER	BNT4 HD	Kandidaten-Archiv	https://netplus.zappr.stream/bntworld.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/bntworld.m3u8
 FEHLER	TVP POLONIA HD	Kandidaten-Archiv	https://netplus.zappr.stream/tvpolonia.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/tvpolonia.m3u8
 FEHLER	TVRomania int HD	Kandidaten-Archiv	https://netplus.zappr.stream/tvrinternational.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/tvrinternational.m3u8
-FEHLER	BVN	Kandidaten-Archiv	https://netplus.zappr.stream/bvn.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/bvn.m3u8
 FEHLER	MNE HD	Kandidaten-Archiv	https://netplus.zappr.stream/rtcg.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/rtcg.m3u8
+FEHLER	BVN	Kandidaten-Archiv	https://netplus.zappr.stream/bvn.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/bvn.m3u8
 FEHLER	TRT TURK HD	Kandidaten-Archiv	https://netplus.zappr.stream/trtturk.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/trtturk.m3u8
 FEHLER	Canal Algerie2	Kandidaten-Archiv	https://netplus.zappr.stream/canalalgerie.mpd: Server returned 404 Not Found 	https://netplus.zappr.stream/canalalgerie.mpd
 FEHLER	cctv4 HD	Kandidaten-Archiv	https://netplus.zappr.stream/cctv4.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/cctv4.m3u8
-FEHLER	Canal B de	Kandidaten-Archiv	https://netplus.zappr.stream/canalbde.mpd: Server returned 404 Not Found 	https://netplus.zappr.stream/canalbde.mpd
 FEHLER	PTC CBET HD	Kandidaten-Archiv	https://netplus.zappr.stream/rtssat.m3u8: Server returned 403 Forbidden (access denied) 	https://netplus.zappr.stream/rtssat.m3u8
+FEHLER	Canal B de	Kandidaten-Archiv	https://netplus.zappr.stream/canalbde.mpd: Server returned 404 Not Found 	https://netplus.zappr.stream/canalbde.mpd
 FEHLER	Canal B fr	Kandidaten-Archiv	https://netplus.zappr.stream/canalbfr.mpd: Server returned 404 Not Found 	https://netplus.zappr.stream/canalbfr.mpd
 FEHLER	Rhone TV	Kandidaten-Archiv	https://netplus.zappr.stream/rhonefmtv.mpd: Server returned 404 Not Found 	https://netplus.zappr.stream/rhonefmtv.mpd
 OK	RTK1 SAT HD	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://gjirafa-video-live.gjirafa.net/gjvideo-livestream/rtk-sat/tracks-v4a1/mono.ts.m3u8
 FEHLER	Nick Germany (1080p) [Geo-blocked]	Kandidaten-Archiv	https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8: Server returned 5XX Server Error reply 	https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 FEHLER	Disney Channel D	Kandidaten-Archiv	https://netplus.zappr.stream/disneychannelde.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/disneychannelde.m3u8
-FEHLER	Disney Channel (576p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x55edd1dfc540] Error in the pull function. [tls @ 0x55edd1dfc540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disne	https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
+FEHLER	Disney Channel (576p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x55ccfd46b540] Error in the pull function. [tls @ 0x55ccfd46b540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disne	https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8
 OK	2M Maroc FHD	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
-FEHLER	ProSieben Maxx (576p)	Kandidaten-Archiv	[tcp @ 0x55f6a13c7540] Connection to tcp://79.232.88.203:9981 failed: Connection timed out http://79.232.88.203:9981/stream/channelid/1038721938: Connection timed out 	http://79.232.88.203:9981/stream/channelid/1038721938
-FEHLER	NDR Fernsehen (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x564e5a189540] Error in the pull function. [tls @ 0x564e5a189540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8: Connect	https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8
+FEHLER	ProSieben Maxx (576p)	Kandidaten-Archiv	[tcp @ 0x55958d9b7540] Connection to tcp://79.232.88.203:9981 failed: Connection timed out http://79.232.88.203:9981/stream/channelid/1038721938: Connection timed out 	http://79.232.88.203:9981/stream/channelid/1038721938
 FEHLER	VOX HD	Kandidaten-Archiv	https://netplus.zappr.stream/vox.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/vox.m3u8
-FEHLER	VOX (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x556b2f6e8540] Error in the pull function. [tls @ 0x556b2f6e8540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd: Connecti	https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
-FEHLER	VOX (576p) [Geo-blocked] [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x55cccce12540] Error in the pull function. [tls @ 0x55cccce12540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8: Connect	https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
+FEHLER	VOX (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x561cca8ae540] Error in the pull function. [tls @ 0x561cca8ae540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd: Connecti	https://viamotionhsi.netplus.ch/live/eds/vox/browser-dash/vox.mpd
+FEHLER	VOX (576p) [Geo-blocked] [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x563f588e9540] Error in the pull function. [tls @ 0x563f588e9540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8: Connect	https://viamotionhsi.netplus.ch/live/eds/vox/browser-HLS8/vox.m3u8
 FEHLER	RTL SUPER HD	Kandidaten-Archiv	https://netplus.zappr.stream/superrtl.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/superrtl.m3u8
-FEHLER	RTL Super (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x55f9aa39c540] Error in the pull function. [tls @ 0x55f9aa39c540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd	https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
-FEHLER	RTL Super (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x564dee2bd540] Error in the pull function. [tls @ 0x564dee2bd540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u	https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
-FEHLER	BR Fernsehen Sud	Kandidaten-Archiv	https://dash2.antik.sk/live/test_br_tizen/playlist.m3u8: Server returned 404 Not Found 	https://dash2.antik.sk/live/test_br_tizen/playlist.m3u8
-FEHLER	BR Fernsehen Sud (1080p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x55ea549c6540] Error in the pull function. [tls @ 0x55ea549c6540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8:	https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8
+FEHLER	RTL Super (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x564dcfd66540] Error in the pull function. [tls @ 0x564dcfd66540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd	https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-dash/superrtl.mpd
+FEHLER	RTL Super (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x55ab511d4540] Error in the pull function. [tls @ 0x55ab511d4540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u	https://viamotionhsi.netplus.ch/live/eds/superrtl/browser-HLS8/superrtl.m3u8
 FEHLER	NITRO. HD	Kandidaten-Archiv	https://netplus.zappr.stream/rtlnitro.m3u8: Server returned 404 Not Found 	https://netplus.zappr.stream/rtlnitro.m3u8
-FEHLER	Nitro HD (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x5570d6304540] Error in the pull function. [tls @ 0x5570d6304540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd	https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
-FEHLER	Nitro HD (1080p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x55c555204540] Error in the pull function. [tls @ 0x55c555204540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u	https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
-FEHLER	SWR Fernsehen Baden-Wurttemberg (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x55a7c3bfb540] Error in the pull function. [tls @ 0x55a7c3bfb540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8: Con	https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8
+FEHLER	Nitro HD (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x559515686540] Error in the pull function. [tls @ 0x559515686540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd	https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-dash/rtlnitro.mpd
+FEHLER	Nitro HD (1080p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x56425a84e540] Error in the pull function. [tls @ 0x56425a84e540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u	https://viamotionhsi.netplus.ch/live/eds/rtlnitro/browser-HLS8/rtlnitro.m3u8
+FEHLER	NDR Fernsehen (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x55c8148bf540] Error in the pull function. [tls @ 0x55c8148bf540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8: Connect	https://viamotionhsi.netplus.ch/live/eds/ndr/browser-HLS8/ndr.m3u8
+FEHLER	BR Fernsehen Sud	Kandidaten-Archiv	https://dash2.antik.sk/live/test_br_tizen/playlist.m3u8: Server returned 404 Not Found 	https://dash2.antik.sk/live/test_br_tizen/playlist.m3u8
+FEHLER	BR Fernsehen Sud (1080p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x55ac71012540] Error in the pull function. [tls @ 0x55ac71012540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8:	https://viamotionhsi.netplus.ch/live/eds/brhdsud/browser-HLS8/brhdsud.m3u8
+FEHLER	SWR Fernsehen Baden-Wurttemberg (720p) [Geo-Blocked]	Kandidaten-Archiv	[tls @ 0x557a7b7eb540] Error in the pull function. [tls @ 0x557a7b7eb540] IO error: Connection timed out https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8: Con	https://viamotionhsi.netplus.ch/live/eds/swrbw/browser-HLS8/swrbw.m3u8
 
 ===== Österreichische Sender =====
-FEHLER	Antenne Vorarlberg (720p) [Not 24/7]	Basis	[tcp @ 0x5618f4cc3f40] Connection to tcp://5857db5306b83.streamlock.net:443 failed: Connection refused https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/pl	https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8
-FEHLER	Antenne Vorarlberg	Basis	[tcp @ 0x55cd75db6f40] Connection to tcp://5857db5306b83.streamlock.net:443 failed: Connection refused https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:liv	https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
 FEHLER	K-TV	Basis	https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8: Server returned 404 Not Found 	https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+FEHLER	Antenne Vorarlberg (720p) [Not 24/7]	Basis	[tcp @ 0x55f472758f40] Connection to tcp://5857db5306b83.streamlock.net:443 failed: Connection refused https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/pl	https://5857db5306b83.streamlock.net/antennevorarlberg-live/mp4:livestream/playlist.m3u8
+FEHLER	Antenne Vorarlberg	Basis	[tcp @ 0x55f12b426f40] Connection to tcp://5857db5306b83.streamlock.net:443 failed: Connection refused https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:liv	https://5857db5306b83.streamlock.net/antennevorarlberg-live/_definst_/mp4:livestream/playlist.m3u8
 FEHLER	K19	Basis	https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8: Server returned 403 Forbidden (access denied) 	https://1853185335.rsc.cdn77.org/K192/tv/playlist.m3u8
-FEHLER	ATV HD (1080p)	Basis	[tcp @ 0x55df063b5540] Connection to tcp://212.186.45.34:9981 failed: Connection timed out http://212.186.45.34:9981/stream/channelid/692531719?profile=pass: Connection timed out 	http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
 OK	FUEL TV	Basis	audio+video erkannt und 3s dekodiert	https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
-OK	KIT-TV	Basis	audio+video erkannt und 3s dekodiert	https://everest.pa-hosting.de:3591/live/joseflive.m3u8
+FEHLER	ATV HD (1080p)	Basis	[tcp @ 0x556474b87540] Connection to tcp://212.186.45.34:9981 failed: Connection timed out http://212.186.45.34:9981/stream/channelid/692531719?profile=pass: Connection timed out 	http://212.186.45.34:9981/stream/channelid/692531719?profile=pass
 OK	FS1 Salzburg	Basis	audio+video erkannt und 3s dekodiert	https://stream.fs1.tv/hls/webstream.m3u8
+OK	KIT-TV	Basis	audio+video erkannt und 3s dekodiert	https://everest.pa-hosting.de:3591/live/joseflive.m3u8
 FEHLER	ORF 1	Basis	https://orf1.mdn.ors.at/out/u/orf1/q8c/manifest.m3u8: Server returned 403 Forbidden (access denied) 	https://orf1.mdn.ors.at/out/u/orf1/q8c/manifest.m3u8
 OK	Ländle TV	Basis	audio+video erkannt und 3s dekodiert	https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3u8
 FEHLER	ORF Kids (720p)	Basis	https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd: Server returned 403 Forbidden (access denied) 	https://web12.mdn.ors.at/orf/web12/qxa/manifest.mpd
-FEHLER	ORF III HD (720p)	Basis	https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8: Server returned 403 Forbidden (access denied) 	https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 FEHLER	ORF Sport +	Basis	https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8: Server returned 403 Forbidden (access denied) 	https://orfs.mdn.ors.at/out/u/orfs/q8c/manifest.m3u8
 OK	Hitradio Ö3	Basis	audio+video erkannt und 3s dekodiert	https://studiocam-oe3.mdn.ors.at/orf/studiocam_oe3/q6a/master.m3u8
 OK	Antenne Steiermark	Basis	audio+video erkannt und 3s dekodiert	https://60efd7a2b4d02.streamlock.net/a_steiermark/ngrp:livestream_all/playlist.m3u8
 OK	Antenne Kärnten	Basis	audio+video erkannt und 3s dekodiert	https://60efd7a2b4d02.streamlock.net/a_kaernten/ngrp:livestream_all/playlist.m3u8
-OK	Red Bull TV AU (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
-FEHLER	Kronehit	Basis	ffprobe: Command '['ffprobe', '-v', 'error', '-rw_timeout', '12000000', '-analyzeduration', '5000000', '-probesize', '10000000', 	https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-OK	Red Bull TV BR (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
-FEHLER	ORF 2 (720p)	Basis	http://88.212.15.19/live/test_orf_zwei_tizen/playlist.m3u8: Connection timed out 	http://88.212.15.19/live/test_orf_zwei_tizen/playlist.m3u8
 OK	Red Bull TV	Basis	audio+video erkannt und 3s dekodiert	https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-OK	Red Bull TV ES (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
+FEHLER	ORF 2 (720p)	Basis	http://88.212.15.19/live/test_orf_zwei_tizen/playlist.m3u8: Connection timed out 	http://88.212.15.19/live/test_orf_zwei_tizen/playlist.m3u8
+FEHLER	Kronehit	Basis	ffprobe: Command '['ffprobe', '-v', 'error', '-rw_timeout', '12000000', '-analyzeduration', '5000000', '-probesize', '10000000', 	https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
+OK	Red Bull TV AU (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
+OK	Red Bull TV BR (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+FEHLER	P3tv (720p) [Not 24/7]	Basis	[tcp @ 0x558714c3c900] Connection to tcp://p3-6.mov.at:1935 failed: Connection timed out http://p3-6.mov.at:1935/live/weekstream/master.m3u8: Connection timed out 	http://p3-6.mov.at:1935/live/weekstream/master.m3u8
+FEHLER	P3TV	Basis	[tcp @ 0x55acfe9ac900] Connection to tcp://p3-6.mov.at:1935 failed: Connection timed out http://p3-6.mov.at:1935/live/weekstream/playlist.m3u8: Connection timed out 	http://p3-6.mov.at:1935/live/weekstream/playlist.m3u8
 OK	Red Bull TV DE (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://46cfeb23c7f74853bba7a256655a3119.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-582-WORBDACHDEFAST-WHALETVPLUS/582/whaletvplus/hls/master/playlist.m3u8
-FEHLER	P3tv (720p) [Not 24/7]	Basis	[tcp @ 0x556a54b27900] Connection to tcp://p3-6.mov.at:1935 failed: Connection timed out http://p3-6.mov.at:1935/live/weekstream/master.m3u8: Connection timed out 	http://p3-6.mov.at:1935/live/weekstream/master.m3u8
-FEHLER	P3TV	Basis	[tcp @ 0x55eda33f8900] Connection to tcp://p3-6.mov.at:1935 failed: Connection timed out http://p3-6.mov.at:1935/live/weekstream/playlist.m3u8: Connection timed out 	http://p3-6.mov.at:1935/live/weekstream/playlist.m3u8
-OK	Red Bull TV US (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
+OK	Red Bull TV ES (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://886bd3fbc782459f8de7555d32d7e9ce.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-957-WORBLATAMESFAST-WHALETVPLUS/957/whaletvplus/hls/master/playlist.m3u8
 OK	Red Bull TV UK (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://1a3566cb46914c5499fbc86fbc4ac87e.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-932-WORBUKENFAST-WHALETVPLUS/932/whaletvplus/hls/master/playlist.m3u8
+OK	Red Bull TV US (1080p)	Basis	audio+video erkannt und 3s dekodiert	https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
 FEHLER	ServusTV (1080p) [Geo-blocked]	Basis	https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8: Server returned 403 Forbidden (access denied) 	https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
-FEHLER	RTS	Basis	[tcp @ 0x55f3ed31bf40] Connection to tcp://58b42f6c8c9bf.streamlock.net:8080 failed: Connection timed out https://58b42f6c8c9bf.streamlock.net:8080/live/RTS2015/playlist.m3u8: Conn	https://58b42f6c8c9bf.streamlock.net:8080/live/RTS2015/playlist.m3u8
-FEHLER	Servus TV	Basis	kein gemeinsames Audio+Video erkannt	https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master.m3u8
+FEHLER	RTS	Basis	[tcp @ 0x55deeaddaf40] Connection to tcp://58b42f6c8c9bf.streamlock.net:8080 failed: Connection timed out https://58b42f6c8c9bf.streamlock.net:8080/live/RTS2015/playlist.m3u8: Conn	https://58b42f6c8c9bf.streamlock.net:8080/live/RTS2015/playlist.m3u8
 OK	RTV	Basis	audio+video erkannt und 3s dekodiert	http://iptv.rtv-ooe.at/stream.m3u8
-OK	Steiermark TV	Basis	audio+video erkannt und 3s dekodiert	https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
+FEHLER	Servus TV	Basis	kein gemeinsames Audio+Video erkannt	https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master.m3u8
 OK	oe24	Basis	audio+video erkannt und 3s dekodiert	https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
 OK	R9	Basis	audio+video erkannt und 3s dekodiert	https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-FEHLER	Uppera Balkan (720p) [Geo-blocked]	Basis	[tcp @ 0x5641a219f540] Connection to tcp://89.187.168.245:8080 failed: Connection timed out http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8: Connection timed out 	http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
-FEHLER	Tirol TV	Basis	[tcp @ 0x55ea2667c540] Failed to resolve hostname lb.hd-livestream.de: Name or service not known http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8: Input/output error 	http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
-OK	Tirol TV (720p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
-FEHLER	3sat (720p) [Geo-blocked]	Kandidaten-Archiv	https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8: Server returned 403 Forbidden (access denied) 	https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+OK	Steiermark TV	Basis	audio+video erkannt und 3s dekodiert	https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
+FEHLER	TV 1 Oberösterreich	Basis	[hls @ 0x556cbed6b880] Error when loading first segment 'https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_360p500kbps000001155.ts' https://streaming10.	https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
+FEHLER	Uppera Balkan (720p) [Geo-blocked]	Basis	[tcp @ 0x55bbbb535540] Connection to tcp://89.187.168.245:8080 failed: Connection timed out http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8: Connection timed out 	http://89.187.168.245:8080/live/sUPPERchannel2/index.m3u8
 OK	Schladming-Dachstein TV	Basis	audio+video erkannt und 3s dekodiert	https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
-OK	90210	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
-FEHLER	TV 1 Oberösterreich	Basis	[hls @ 0x5620a53fd880] Error when loading first segment 'https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_360p500kbps000001155.ts' https://streaming10.	https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8
+FEHLER	3sat (720p) [Geo-blocked]	Kandidaten-Archiv	https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8: Server returned 403 Forbidden (access denied) 	https://zdf-hls-18.akamaized.net/hls/live/2016501/dach/high/master.m3u8
+OK	ORF III HD (720p)	Basis	audio+video erkannt und 3s dekodiert	https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
 OK	Alle hassen Chris	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-622f6e1e2792150007e0b2ff.m3u8
+OK	90210	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-65a67dd13af63d0008257f17.m3u8
 OK	Auction Hunters	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5ede45d077746000072be0fe.m3u8
+FEHLER	Tirol TV	Basis	[tcp @ 0x55a8a5377540] Failed to resolve hostname lb.hd-livestream.de: Name or service not known http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8: Input/output error 	http://lb.hd-livestream.de:1935/live/TirolTV/playlist.m3u8
+OK	Tirol TV (720p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	https://streaming14.huberwebmedia.at/LiveApp/streams/livestream.m3u8
+OK	arte HD	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
 OK	Awkward	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-62bc1784120ba80007935aaa.m3u8
 OK	Becker	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-630348a54c48ce00077eb6c7.m3u8
+OK	Swamiji TV American (1080p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
 OK	Beverly Hills 90210	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
-OK	arte HD	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
-OK	CC Pluto TV	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
-OK	BIG BROTHER CLASSIC	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-663e09e4b18d700008e48dcf.m3u8
+OK	Swamiji TV Australian (1080p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
 FEHLER	DAZN Darts x Pluto TV	Kandidaten-Archiv	https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8: Server returned 403 Forbidden (access denied) 	https://jmp2.uk/plu-64b67f0424ade50008a3be17.m3u8
 OK	Cheers	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-611e7f224676bf00076a4d8d.m3u8
-OK	Comedy Central South Park	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
+OK	CC Pluto TV	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5d4947590ba40f75dc29c26b.m3u8
+OK	Swamiji TV European (1080p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 FEHLER	DAZN Heldinnen x Pluto TV	Kandidaten-Archiv	https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8: Server returned 403 Forbidden (access denied) 	https://jmp2.uk/plu-64afe50c5dc16600087f3227.m3u8
-OK	Swamiji TV American (1080p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
 FEHLER	Frasier: Berühmte Gäste	Kandidaten-Archiv	https://jmp2.uk/plu-6790fa9e1cfc4aa96dfadcef.m3u8: Server returned 404 Not Found 	https://jmp2.uk/plu-6790fa9e1cfc4aa96dfadcef.m3u8
-OK	Drake & Josh	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
-OK	Swamiji TV Australian (1080p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamAU.smil/playlist.m3u8
+OK	BIG BROTHER CLASSIC	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-663e09e4b18d700008e48dcf.m3u8
+OK	Comedy Central South Park	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
 FEHLER	Love The Planet DE (1080p) [Geo-blocked]	Kandidaten-Archiv	https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8: Server returned 403 Forbidden (access denied) 	https://amg01821-amg01821c12-rlaxx-gb-10461.playouts.now.amagi.tv/playlist.m3u8
 OK	Germany Shore	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-6447dea7e94c380008dba94c.m3u8
-OK	FIFA+ German (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
+OK	Drake & Josh	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-65a67c494a10d800085cab06.m3u8
 OK	iCarly	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5e8b580a233dc90007f0cb9d.m3u8
-OK	Swamiji TV European (1080p) [Not 24/7]	Basis	audio+video erkannt und 3s dekodiert	https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
+OK	FIFA+ German (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://4397879b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWRlX0ZJRkFQbHVzR2VybWFuX0hMUw/playlist.m3u8
 OK	Mission Impossible	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-634fe5afece2e60007c9d8b8.m3u8
-OK	Comedy Central	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
-OK	MTV Catfish TV Show (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8
-OK	MTV Dating (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5caf330ea5068259a32320fd.m3u8
 OK	Frasier	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-62cebf042ffc6d0007c4e59a.m3u8
+OK	MTV Catfish TV Show (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5db6a697d5f34a000934cd13.m3u8
+OK	Comedy Central	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
 OK	McLeods Töchter	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-66c6fcfc6838ee00085beb1a.m3u8
-OK	MTV Reality (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-685136fb33a52de120bbb086.m3u8
-OK	MTV Ridiculousness	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8
+OK	MTV Dating (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5caf330ea5068259a32320fd.m3u8
 OK	MTV Pluto TV	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8
+OK	MTV Ridiculousness	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5f9847fd513250000728a9a5.m3u8
+OK	MTV Reality (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-685136fb33a52de120bbb086.m3u8
 OK	MTV Teen Mom (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5cffcf5686dfe15595fb3f56.m3u8
-OK	Nickelodeon Classics (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
 OK	Nick Jr. Club (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-67f3eb1c443f0671bc03ece8.m3u8
+OK	Nickelodeon Classics (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-67f3eb800a1beb98767ca748.m3u8
 OK	Nickelodeon Teen (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5f0d668b872e4400073acc68.m3u8
-FEHLER	like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Österreichische Sender",ORF 1 (720p)	Kandidaten-Archiv	https://7nyaler.streamhostingcdn.top/stream/50/index.m3u8: Server returned 403 Forbidden (access denied) 	https://7nyaler.streamhostingcdn.top/stream/50/index.m3u8
-OK	Perry Mason	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-64eddc3485efec00085b0369.m3u8
-OK	Nickelodeon Toons (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
-OK	Pluto TV Action	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-65004605110545000842035d.m3u8
 OK	W24	Basis	audio+video erkannt und 3s dekodiert	https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
+FEHLER	like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Österreichische Sender",ORF 1 (720p)	Kandidaten-Archiv	https://7nyaler.streamhostingcdn.top/stream/50/index.m3u8: Server returned 403 Forbidden (access denied) 	https://7nyaler.streamhostingcdn.top/stream/50/index.m3u8
+OK	Nickelodeon Toons (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5ede448d3d50590007a4419e.m3u8
+OK	Perry Mason	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-64eddc3485efec00085b0369.m3u8
 OK	Pluto TV Animals	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5d767ae7b456c8cf265ce922.m3u8
-OK	Nickelodeon	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
+OK	Pluto TV Adult Animation	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8
+OK	Pluto TV Action	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-65004605110545000842035d.m3u8
 FEHLER	Pluto TV Comedy Therapie	Kandidaten-Archiv	https://jmp2.uk/plu-69b968ba255fecb01f602257.m3u8: Server returned 404 Not Found 	https://jmp2.uk/plu-69b968ba255fecb01f602257.m3u8
 OK	Pluto TV Anime	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8
-OK	Pluto TV Adult Animation	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-67f68bd2135aeda9ddf0ef54.m3u8
+FEHLER	Nachrichten 360 (1080p) [Geo-blocked]	Kandidaten-Archiv	[hls @ 0x556883ba3880] Error when loading first segment 'https://amg01821-amg01821c36-samsung-de-10521.playouts.now.amagi.tv/240p/seg_1461738.ts' https://cdn-apse1-prod.tsv2.amagi.	https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8
 OK	Pluto TV Bud & Terence	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-64be7398e4391c0008cdedfe.m3u8
 FEHLER	Pluto TV Ferne Galaxien	Kandidaten-Archiv	https://jmp2.uk/plu-68ada46d5190a45dc9c45af1.m3u8: Server returned 404 Not Found 	https://jmp2.uk/plu-68ada46d5190a45dc9c45af1.m3u8
-OK	Pluto TV Crime	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
-FEHLER	Pluto TV Fran: Beste Mama-Momente	Kandidaten-Archiv	https://jmp2.uk/plu-69b968e011fc7b9e27c0d958.m3u8: Server returned 404 Not Found 	https://jmp2.uk/plu-69b968e011fc7b9e27c0d958.m3u8
 OK	Pluto TV Explore	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
-OK	Pluto TV Britische Serien	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-677e5a3d7bffa6000808dbf2.m3u8
-FEHLER	Nachrichten 360 (1080p) [Geo-blocked]	Kandidaten-Archiv	[hls @ 0x556c43009880] Error when loading first segment 'https://amg01821-amg01821c36-samsung-de-10521.playouts.now.amagi.tv/240p/seg_1460157.ts' https://cdn-apse1-prod.tsv2.amagi.	https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01821-lovetvfast-nachrichten360-samsungde/playlist.m3u8
+OK	Pluto TV Crime	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5e7b6c60fd20c50007910bf5.m3u8
 OK	Pluto TV Deutsche Comedy	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-6672f49f61a39900089db68e.m3u8
-OK	Pluto TV Historische Serien	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
+FEHLER	Pluto TV Fran: Beste Mama-Momente	Kandidaten-Archiv	https://jmp2.uk/plu-69b968e011fc7b9e27c0d958.m3u8: Server returned 404 Not Found 	https://jmp2.uk/plu-69b968e011fc7b9e27c0d958.m3u8
 OK	Pluto TV Food	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
+OK	Pluto TV Britische Serien	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-677e5a3d7bffa6000808dbf2.m3u8
 OK	Pluto TV Haialarm	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-69b015c5d29cc97de7da4af8.m3u8
-FEHLER	Pluto TV Laughs in Spanish	Kandidaten-Archiv	https://jmp2.uk/plu-69a554179a3f3bb488c7d2be.m3u8: Server returned 404 Not Found 	https://jmp2.uk/plu-69a554179a3f3bb488c7d2be.m3u8
-OK	Pluto TV Horror-Serien	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-67ff7d9c7fc25e0e72451bc9.m3u8
+OK	Okto TV (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 OK	Pluto TV History	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5d767b1c126c65d0a307355f.m3u8
-OK	Pluto TV Kult Comedies	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-66337de656fc840008ff7a65.m3u8
+OK	Pluto TV Historische Serien	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
+FEHLER	Pluto TV Laughs in Spanish	Kandidaten-Archiv	https://jmp2.uk/plu-69a554179a3f3bb488c7d2be.m3u8: Server returned 404 Not Found 	https://jmp2.uk/plu-69a554179a3f3bb488c7d2be.m3u8
 OK	Pluto TV Horror	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-62f4f4b88157cf00075c22db.m3u8
+OK	Pluto TV Horror-Serien	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-67ff7d9c7fc25e0e72451bc9.m3u8
+OK	Pluto TV Kult Comedies	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-66337de656fc840008ff7a65.m3u8
+OK	Pluto TV Mystery	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
 OK	Pluto TV Kultfilme	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
 OK	Pluto TV Movies	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
-OK	Okto TV (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
-OK	Pluto TV Nordic Crime	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-67d984408d8dc3d7754dccf2.m3u8
-OK	Pluto TV Mystery	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
-OK	Pluto TV Romance	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
-OK	Pluto TV Paranormal	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8
-OK	Pluto TV Polizeiserien	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
-OK	Pluto TV Nature	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
-OK	Pluto TV Reportagen	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8
-OK	Pluto TV Science	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
-OK	Pluto TV Sci-Fi	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8
-OK	Pluto TV Sitcoms	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
-OK	Pluto TV Snooker 900 (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
-OK	Pluto TV Space	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
-OK	Pluto TV Star Trek	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
 FEHLER	NDR Fernsehen International (720p)	Kandidaten-Archiv	ffprobe: Command '['ffprobe', '-v', 'error', '-rw_timeout', '12000000', '-analyzeduration', '5000000', '-probesize', '10000000', 	https://ndrint.akamaized.net/hls/live/2020766/ndr_int/index.m3u8
+OK	Pluto TV Nature	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
+OK	Pluto TV Nordic Crime	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-67d984408d8dc3d7754dccf2.m3u8
+OK	Pluto TV Reportagen	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8
+OK	Pluto TV Paranormal	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8
+OK	Pluto TV Romance	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
+OK	Pluto TV Polizeiserien	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
+OK	Pluto TV Sci-Fi	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8
+OK	Pluto TV Science	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5d767b4889bca2ce7b73ef2e.m3u8
+OK	Pluto TV Snooker 900 (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-68ac5543a1ac0c90f2c8943e.m3u8
 OK	Pluto TV Serie	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5dc190f7bfed110009d934c3.m3u8
+OK	Pluto TV Sitcoms	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5d767ab2b456c8cf265ce921.m3u8
+OK	Pluto TV Star Trek	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-6152ee71bf99590007893a11.m3u8
 FEHLER	Pluto TV Worst of Bundy	Kandidaten-Archiv	https://jmp2.uk/plu-69b968ca1c36025fd0a3d92d.m3u8: Server returned 404 Not Found 	https://jmp2.uk/plu-69b968ca1c36025fd0a3d92d.m3u8
+OK	Pluto TV True Crime	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-615333098185f00008715a56.m3u8
+FEHLER	Nickelodeon	Kandidaten-Archiv	ffmpeg: Command '['ffmpeg', '-v', 'error', '-rw_timeout', '12000000', '-i', 'https://ma.anixa.tv/clips/stream/nickelodeon/playli	https://ma.anixa.tv/clips/stream/nickelodeon/playlist.php
 FEHLER	Rakuten TV Action Movies Austria (720p)	Kandidaten-Archiv	https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8: Serv	https://0f846627524f4dd2995e93581379db82.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenActionMovies-1/playlist.m3u8
 FEHLER	Rakuten TV Comedy Movies Austria (720p)	Kandidaten-Archiv	https://7ed752b220a441b7b22bdf697c6c4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenComedyMovies-1/playlist.m3u8: Serv	https://7ed752b220a441b7b22bdf697c6c4df8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenComedyMovies-1/playlist.m3u8
 FEHLER	Rakuten TV Drama Movies Austria (720p)	Kandidaten-Archiv	https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenTVShows-1/playlist.m3u8: Server re	https://df1aa472ff5b4780a8d91fe319778b4d.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenTVShows-1/playlist.m3u8
 FEHLER	Rakuten TV Family Movies Austria (720p)	Kandidaten-Archiv	https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8: Server ret	https://9fa8baba055e4a52b0a8d1ae7d78bed8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-at_RakutenFamily-1/playlist.m3u8
-OK	Pluto TV Star Trek: Animation	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-69492467ae33e24d916e56cf.m3u8
-OK	Pluto TV True Crime	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-615333098185f00008715a56.m3u8
+OK	Pluto TV Space	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-61409f8d6feb30000766b675.m3u8
 OK	Pluto TV Weihnachten im Sommer	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-642ad072283aa4000806148c.m3u8
-OK	Pluto TV Western Serien	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-682453215c646751955e1204.m3u8
 OK	Pluto TV Western	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-630dd3b2605f140007e002f5.m3u8
+OK	Pluto TV Star Trek: Animation	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-69492467ae33e24d916e56cf.m3u8
+OK	Pluto TV Western Serien	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-682453215c646751955e1204.m3u8
 OK	Sabrina Total verhext!	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-622f40c901d4b70007ad7609.m3u8
-OK	South Park: Butters Collection	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
-OK	South Park: Cartman Collection	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
-OK	South Park: Kyle Collection	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
-FEHLER	Super RTL HD (720p)	Kandidaten-Archiv	https://forsizero.github.io/iptv/m3u/superrtlhd.m3u: Invalid data found when processing input 	https://forsizero.github.io/iptv/m3u/superrtlhd.m3u
 FEHLER	like Gecko) Chrome/120.0.0.0 Safari/537.36 VLC/3.0.21 LibVLC/3.0.21" group-title="Österreichische Sender",Sportdigital FUSSBALL	Kandidaten-Archiv	https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8: Server returned 403 Forbidden (access denied) 	https://7nyaler.streamhostingcdn.top/stream/15/index.m3u8
-OK	SpongeBob Schwammkopf (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
+OK	South Park: Butters Collection	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-646b14a0e94c3800082a8d3a.m3u8
 OK	South Park: Kenny Collection	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-646b1404ee6a2f00082b5d66.m3u8
+OK	SpongeBob Schwammkopf (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
+FEHLER	Super RTL HD (720p)	Kandidaten-Archiv	https://forsizero.github.io/iptv/m3u/superrtlhd.m3u: Invalid data found when processing input 	https://forsizero.github.io/iptv/m3u/superrtlhd.m3u
 OK	South Park: Stan Collection	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
 OK	South Park: Original Version	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-646b150a15939400089e2702.m3u8
-OK	Star Trek: The Original Series	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8
+OK	South Park: Kyle Collection	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-646b14d0e1979c0008915a09.m3u8
+OK	South Park: Cartman Collection	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-646b14747cb4b1000875724d.m3u8
 OK	Star Trek: The Next Generation	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
-OK	Totally Turtles (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
-FEHLER	ORF III Ⓖ	Kandidaten-Archiv	https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8: Server returned 403 Forbidden (access denied) 	https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
 FEHLER	ORF 2 Ⓖ	Kandidaten-Archiv	https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8: Server returned 403 Forbidden (access denied) 	https://orf2.mdn.ors.at/out/u/orf2/q8c/manifest.m3u8
-OK	The L Word – Wenn Frauen lieben	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8
+OK	Totally Turtles (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-5d6792bd6be2998ad0ccce30.m3u8
 OK	Takeshi's Castle	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-6054a9f4bc8a5f000771504c.m3u8
+FEHLER	ORF III Ⓖ	Kandidaten-Archiv	https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8: Server returned 403 Forbidden (access denied) 	https://orf3.mdn.ors.at/out/u/orf3/q8c/manifest.m3u8
+OK	Star Trek: The Original Series	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-69776b58036e883f39e5ab8a.m3u8
+FEHLER	The Cycling Channel	Kandidaten-Archiv	[tcp @ 0x563d7208af40] Connection to tcp://cyclingtv.playout.vju.tv:443 failed: Connection timed out https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8: Connection timed out 	https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
+OK	The L Word – Wenn Frauen lieben	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://jmp2.uk/plu-68d2759a59fd82da3226492d.m3u8
 OK	Zee One German (720p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://e4955b54.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1kZV9aZWVPbmVfSExT/playlist.m3u8
-FEHLER	The Cycling Channel	Kandidaten-Archiv	[tcp @ 0x55e1aa1b1f40] Connection to tcp://cyclingtv.playout.vju.tv:443 failed: Connection timed out https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8: Connection timed out 	https://cyclingtv.playout.vju.tv/cyclingtv/main.m3u8
 OK	Terra Mater WILD (1080p)	Kandidaten-Archiv	audio+video erkannt und 3s dekodiert	https://53ff3982.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmxheHhUVi1ldV9UZXJyYU1hdGVyV2lsZF9ITFM/playlist.m3u8
 
