@@ -19,7 +19,7 @@ COUNTRIES = {
             ("iptv-org SQI", "https://iptv-org.github.io/iptv/languages/sqi.m3u"),
             ("Free-TV AL", "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_albania.m3u8"),
             ("Free-TV XK", "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_kosovo.m3u8"),
-            # v9: zusätzliche öffentliche Film-/Serien-/Unterhaltungsquellen.
+            # v10: zusätzliche öffentliche Film-/Serien-/Unterhaltungsquellen.
             # Bei diesen globalen Kategorien werden weiter unten nur AL/XK/SQI-markierte Einträge übernommen.
             ("iptv-org Movies ALXK", "https://iptv-org.github.io/iptv/categories/movies.m3u"),
             ("iptv-org Series ALXK", "https://iptv-org.github.io/iptv/categories/series.m3u"),
@@ -27,6 +27,12 @@ COUNTRIES = {
             ("iptv-org Comedy ALXK", "https://iptv-org.github.io/iptv/categories/comedy.m3u"),
             ("iptv-org Classic ALXK", "https://iptv-org.github.io/iptv/categories/classic.m3u"),
             ("iptv-org Family ALXK", "https://iptv-org.github.io/iptv/categories/family.m3u"),
+            ("iptv-org Music ALXK", "https://iptv-org.github.io/iptv/categories/music.m3u"),
+            ("iptv-org General ALXK", "https://iptv-org.github.io/iptv/categories/general.m3u"),
+            ("iptv-org Documentary ALXK", "https://iptv-org.github.io/iptv/categories/documentary.m3u"),
+            ("iptv-org Lifestyle ALXK", "https://iptv-org.github.io/iptv/categories/lifestyle.m3u"),
+            # Zusätzliche öffentliche Kosovo-Liste; dient nur als weitere Suchquelle.
+            ("Community Kosovo", "https://gist.githubusercontent.com/tape4d/4d509ff831683da20955005335a47274/raw/3b99551313f33208082a5193f2030e6fb6311891/kosova.m3u8"),
         ],
     },
     "DE": {
@@ -71,6 +77,9 @@ ALIASES = {
     "news24 albania": "news 24",
     "rtv 21": "rtv21",
     "zico tv": "zico",
+    "besa tv": "besa",
+    "rtv besa": "besa",
+    "rtv besa tv": "besa",
 
     # Deutsche Pflichtsender / häufige Schreibweisen
     "pro sieben": "prosieben",
@@ -226,8 +235,9 @@ EXCLUDE_EXACT_ALXK = {
     "panorama",
 }
 
-# v9: keine Kinderkanäle in der albanischen Gruppe.
+# v10: keine Kinder- und keine Nachrichtensender in der albanischen Gruppe.
 EXCLUDE_KEYWORDS_ALXK = (
+    # Kinder
     "cufo",
     "c ufo",
     "junior",
@@ -240,7 +250,25 @@ EXCLUDE_KEYWORDS_ALXK = (
     "children",
     "cartoon",
     "baby",
+    "femije",
+    "femije",
+    # News / Nachrichten
+    "news",
+    "cnn",
+    "euronews",
+    "report tv",
+    "ora news",
+    "top news",
+    "abc news",
+    "cna",
 )
+
+# URLs, die auf dem Samsung konkret als nicht abspielbar bestätigt wurden.
+# Nur diese URL wird gesperrt; derselbe Sender darf mit einer neu gefundenen URL wieder erscheinen.
+KNOWN_BAD_SAMSUNG_URLS_ALXK = {
+    "https://tv.rtvahireti.com/Ahierti/live/playlist.m3u8",
+    "https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/ehn-g2o-v7w-nh4/index.m3u8",
+}
 
 # Deutsche/österreichische Religions- und Verkaufskanäle entfernen.
 EXCLUDE_KEYWORDS_DE_AT = (
@@ -273,16 +301,27 @@ def is_excluded(code, name):
 def is_excluded_entry(code, item):
     if is_excluded(code, item.get("name", "")):
         return True
+
+    u = item.get("url", "").strip()
+
+    if code == "ALXK":
+        # Keine News-Sender, auch wenn "News" nicht im Namen steht.
+        grp = group_of_meta(item.get("meta", "")).casefold()
+        if "news" in grp:
+            return True
+        # Vom Nutzer auf Samsung konkret als defekt bestätigte URL nicht erneut ausgeben.
+        if u in KNOWN_BAD_SAMSUNG_URLS_ALXK:
+            return True
+
     if code in {"DE", "AT"}:
-        u = item.get("url", "").casefold()
-        if "bibeltv" in u:
+        if "bibeltv" in u.casefold():
             return True
     return False
 
 def fetch(url):
     req = urllib.request.Request(
         url,
-        headers={"User-Agent": "Mozilla/5.0 IPTV-3-Country-AutoRepair-v9"}
+        headers={"User-Agent": "Mozilla/5.0 IPTV-3-Country-AutoRepair-v10"}
     )
     with urllib.request.urlopen(req, timeout=25) as r:
         return r.read().decode("utf-8", "replace")
@@ -406,7 +445,7 @@ def _technical_test_once(url, seconds=4):
 
 
 def technical_test(url):
-    """v9: Nur stabile Streams zulassen: zwei getrennte Tests müssen bestehen."""
+    """v10: Nur stabile Streams zulassen: zwei getrennte Tests müssen bestehen."""
     good, why = _technical_test_once(url, 4)
     if not good:
         return False, why
@@ -505,6 +544,28 @@ def collect_country(code, cfg):
 
     def rank(c):
         src = c["source"]
+
+        # v10: Bei Albanien/Kosovo zuerst frisch geladene öffentliche Quellen testen.
+        # Dadurch wird bei Besa, AlbKanale usw. eher eine aktuelle URL gewählt
+        # statt blind eine alte Basis-/Archiv-URL weiterzuverwenden.
+        if code == "ALXK":
+            if src.startswith("Free-TV"):
+                return 0
+            if src.startswith("iptv-org"):
+                return 1
+            if src.startswith("Community"):
+                return 2
+            if src in {"Öffentlicher Albportal-Fallback", "Öffentlicher Gjirafa-Fallback",
+                       "Öffentlicher IPTV-Org-Fallback", "Manueller öffentlicher Fallback"}:
+                return 3
+            if src == "Basis":
+                return 4
+            if src == "Recovery-Seed":
+                return 5
+            if src == "Kandidaten-Archiv":
+                return 6
+            return 9
+
         if src == "Basis":
             return 0
         if src == "Recovery-Seed":
