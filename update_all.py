@@ -19,7 +19,7 @@ COUNTRIES = {
             ("iptv-org SQI", "https://iptv-org.github.io/iptv/languages/sqi.m3u"),
             ("Free-TV AL", "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_albania.m3u8"),
             ("Free-TV XK", "https://raw.githubusercontent.com/Free-TV/IPTV/master/playlists/playlist_kosovo.m3u8"),
-            # v8: zusätzliche öffentliche Film-/Serien-/Unterhaltungsquellen.
+            # v9: zusätzliche öffentliche Film-/Serien-/Unterhaltungsquellen.
             # Bei diesen globalen Kategorien werden weiter unten nur AL/XK/SQI-markierte Einträge übernommen.
             ("iptv-org Movies ALXK", "https://iptv-org.github.io/iptv/categories/movies.m3u"),
             ("iptv-org Series ALXK", "https://iptv-org.github.io/iptv/categories/series.m3u"),
@@ -226,7 +226,7 @@ EXCLUDE_EXACT_ALXK = {
     "panorama",
 }
 
-# v8: keine Kinderkanäle in der albanischen Gruppe.
+# v9: keine Kinderkanäle in der albanischen Gruppe.
 EXCLUDE_KEYWORDS_ALXK = (
     "cufo",
     "c ufo",
@@ -282,7 +282,7 @@ def is_excluded_entry(code, item):
 def fetch(url):
     req = urllib.request.Request(
         url,
-        headers={"User-Agent": "Mozilla/5.0 IPTV-3-Country-AutoRepair-v8"}
+        headers={"User-Agent": "Mozilla/5.0 IPTV-3-Country-AutoRepair-v9"}
     )
     with urllib.request.urlopen(req, timeout=25) as r:
         return r.read().decode("utf-8", "replace")
@@ -363,8 +363,8 @@ def norm(name):
 
     return ALIASES.get(s, s)
 
-def technical_test(url):
-    """Streng: zuerst Audio+Video erkennen, danach einige Sekunden dekodieren."""
+def _technical_test_once(url, seconds=4):
+    """Ein einzelner strenger Audio+Video-Test."""
     probe = [
         "ffprobe", "-v", "error",
         "-rw_timeout", "12000000",
@@ -391,18 +391,34 @@ def technical_test(url):
         "-rw_timeout", "12000000",
         "-i", url,
         "-map", "0:v:0", "-map", "0:a:0",
-        "-t", "3",
+        "-t", str(seconds),
         "-f", "null", "-"
     ]
     try:
-        d = subprocess.run(decode, capture_output=True, text=True, timeout=22)
+        d = subprocess.run(decode, capture_output=True, text=True, timeout=26)
     except Exception as e:
         return False, f"ffmpeg: {str(e)[:120]}"
 
     if d.returncode:
         return False, (d.stderr or "Dekodierfehler").replace("\n", " ")[:180]
 
-    return True, "audio+video erkannt und 3s dekodiert"
+    return True, f"audio+video erkannt und {seconds}s dekodiert"
+
+
+def technical_test(url):
+    """v9: Nur stabile Streams zulassen: zwei getrennte Tests müssen bestehen."""
+    good, why = _technical_test_once(url, 4)
+    if not good:
+        return False, why
+
+    # Kurz warten und denselben Stream erneut öffnen. So fliegen viele kurzlebige/
+    # instabile URLs raus, die bei einem einzigen 3-Sekunden-Test zufällig bestanden.
+    time.sleep(2)
+    good2, why2 = _technical_test_once(url, 6)
+    if not good2:
+        return False, f"Stabilitätstest 2/2 fehlgeschlagen: {why2}"
+
+    return True, "stabil: 2/2 Tests bestanden (Audio+Video, 4s + 6s)"
 
 def force_group(meta, group):
     if 'group-title="' in meta:
@@ -468,7 +484,7 @@ def collect_country(code, cfg):
             errors.append(f"{label}: {e}")
 
     # Bewusst ausgeschlossene Sender vor Archivierung und Prüfung entfernen.
-    # v8 nutzt die vollständige Entry-Prüfung (Name + URL), damit z.B. Bibel-TV-Aliase
+    # v9 nutzt die vollständige Entry-Prüfung (Name + URL), damit z.B. Bibel-TV-Aliase
     # nicht trotz unauffälligem Sendernamen durchrutschen.
     candidates = [c for c in candidates if not is_excluded_entry(code, c)]
 
