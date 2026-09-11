@@ -51,10 +51,6 @@ https://gjirafa-video-live.gjirafa.net/gjvideo-live/5m0-cok-g5z-1xi/index.m3u8
 https://tringliveviz.akamaized.net/delta/105/out/u/qwaszxerdfcvrtryuy.m3u8
 #EXTINF:-1 group-title="Albanische Sender",Zico TV
 https://gjirafa-video-live.gjirafa.net/gjvideo-live/j3a-n14-2pf-g3s/index.m3u8
-#EXTINF:-1 group-title="Albanische Sender",Zjarr TV
-https://zjarr.future.al/hls/playlist.m3u8
-#EXTINF:-1 group-title="Albanische Sender",Zëri TV
-https://gjirafa-video-live.gjirafa.net/gjvideo-live-n1/jo8-76n-lmx-tv0/index.m3u8
 #EXTINF:-1 tvg-id="2m.ma" tvg-logo="https://picserve.netplus.ch/channels/2mmaroc.png" tvg-country="MA" tvg-language="Arabic" group-title="Deutsche Sender",2M Maroc FHD
 https://d2qh3gh0k5vp3v.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-n6pess5lwbghr/2M_ES.m3u8
 #EXTINF:-1 tvg-id="90210.de@DACH" tvg-logo="https://images.pluto.tv/channels/65a67dd13af63d0008257f17/colorLogoPNG.png" group-title="Deutsche Sender",90210
@@ -121,12 +117,14 @@ https://ma.anixa.tv/clips/stream/comedy_central/playlist.php
 https://jmp2.uk/plu-60c716084d842c00085f6e64.m3u8
 #EXTINF:-1 tvg-id="DasErste.de" group-title="Deutsche Sender",Das Erste
 https://daserste-live.ard-mcdn.de/daserste/live/hls/de/master.m3u8
-#EXTINF:-1 tvg-id="DASDING908.de@SD" group-title="Deutsche Sender",DASDING 90.8
-https://swrdasdingvr-hls.akamaized.net/hls/live/2018681/dasdingvr/master.m3u8
 #EXTINF:-1 tvg-id="DeluxeLounge.de@SD" group-title="Deutsche Sender",Deluxe Lounge
 https://jmp2.uk/stvp-CHAJ0500413A
 #EXTINF:-1 tvg-id="DeluxeMusic.de" group-title="Deutsche Sender",DELUXE MUSIC
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+#EXTINF:-1 tvg-id="DeluxeMusicDanceByKontor.de" group-title="Deutsche Sender",DELUXE MUSIC DANCE BY KONTOR
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
+#EXTINF:-1 tvg-id="DeLuxeMusicRap.de" group-title="Deutsche Sender",DELUXE MUSIC RAP
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/65183/65183_264_live.m3u8
 #EXTINF:-1 tvg-id="DieNeueZeitTV.ch@SD" tvg-logo="https://i.imgur.com/K3lvrog.png" group-title="Deutsche Sender",Die Neue Zeit (576p)
 https://bild-und-ton.stream/die-neue-zeit-tv-live/smil:dnz-de.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DMF.de@SD" group-title="Deutsche Sender",DMF
@@ -183,8 +181,6 @@ https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
 https://kikahls.akamaized.net/hls/live/2022690/livetvkika_ww/master.m3u8
 #EXTINF:-1 tvg-id="KulturMD.de@SD" group-title="Deutsche Sender",KulturMD (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/kulturmd_high/playlist.m3u8
-#EXTINF:-1 tvg-id="Lausitzwelle.de@SD" group-title="Deutsche Sender",Lausitzwelle
-https://h056.video-stream-hosting.de/easycast11-live/_definst_/mp4:livestreamhd2/playlist.m3u8?ref=
 #EXTINF:-1 tvg-id="SachsenFernsehenLeipzig.de@SD" group-title="Deutsche Sender",Leipzig Fernsehen
 https://leipzig.iptv-playoutcenter.de/leipzig/leipzigfernsehen.stream_1/playlist.m3u8
 #EXTINF:-1 tvg-id="LightChannel.de@SD" group-title="Deutsche Sender",Light Channel (576p) [Not 24/7]
@@ -309,6 +305,8 @@ https://jmp2.uk/plu-6672f49f61a39900089db68e.m3u8
 https://jmp2.uk/plu-5ad9b8551b95267e225e59c1.m3u8
 #EXTINF:-1 tvg-id="PlutoTVFood.de@DACH" tvg-logo="https://images.pluto.tv/channels/5dc280c9aa218c0009724b4b/colorLogoPNG_1769092247484.png" group-title="Deutsche Sender",Pluto TV Food
 https://jmp2.uk/plu-5dc280c9aa218c0009724b4b.m3u8
+#EXTINF:-1 tvg-id="PlutoTVHaialarm.de@DACH" tvg-logo="https://images.pluto.tv/channels/69b015c5d29cc97de7da4af8/colorLogoPNG_1779802132594.png" group-title="Deutsche Sender",Pluto TV Haialarm
+https://jmp2.uk/plu-69b015c5d29cc97de7da4af8.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHistorischeSerien.de@DACH" tvg-logo="https://images.pluto.tv/channels/68ada3395190a45dc9c445cf/colorLogoPNG_1760957063422.png" group-title="Deutsche Sender",Pluto TV Historische Serien
 https://jmp2.uk/plu-68ada3395190a45dc9c445cf.m3u8
 #EXTINF:-1 tvg-id="PlutoTVHistory.de@DACH" tvg-logo="https://images.pluto.tv/channels/5d767b1c126c65d0a307355f/colorLogoPNG.png" group-title="Deutsche Sender",Pluto TV History
@@ -325,8 +323,6 @@ https://jmp2.uk/plu-5dde47b63585b500099f74ec.m3u8
 https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
 #EXTINF:-1 tvg-id="PlutoTVMystery.de@DACH" tvg-logo="https://images.pluto.tv/channels/617aad99b68ef100072608cd/colorLogoPNG.png" group-title="Deutsche Sender",Pluto TV Mystery
 https://jmp2.uk/plu-617aad99b68ef100072608cd.m3u8
-#EXTINF:-1 tvg-id="PlutoTVNature.de@DACH" tvg-logo="https://images.pluto.tv/channels/5be1c3f9851dd5632e2c91b2/colorLogoPNG.png" group-title="Deutsche Sender",Pluto TV Nature
-https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
 #EXTINF:-1 tvg-id="PlutoTVNordicCrime.de@DACH" tvg-logo="https://images.pluto.tv/channels/67d984408d8dc3d7754dccf2/colorLogoPNG_1746817551952.png" group-title="Deutsche Sender",Pluto TV Nordic Crime
 https://jmp2.uk/plu-67d984408d8dc3d7754dccf2.m3u8
 #EXTINF:-1 tvg-id="PlutoTVParanormal.de@DACH" tvg-logo="https://images.pluto.tv/channels/5f98487036af340008da1e37/colorLogoPNG.png" group-title="Deutsche Sender",Pluto TV Paranormal
@@ -335,8 +331,6 @@ https://jmp2.uk/plu-5f98487036af340008da1e37.m3u8
 https://jmp2.uk/plu-64be64445dc166000899ce75.m3u8
 #EXTINF:-1 tvg-id="PlutoTVReportagen.de@DACH" tvg-logo="https://images.pluto.tv/channels/68ada3edf84960586ad31c7d/colorLogoPNG_1760078189640.png" group-title="Deutsche Sender",Pluto TV Reportagen
 https://jmp2.uk/plu-68ada3edf84960586ad31c7d.m3u8
-#EXTINF:-1 tvg-id="PlutoTVRomance.de@DACH" tvg-logo="https://images.pluto.tv/channels/5dc287ce3086a20009f5024c/colorLogoPNG.png" group-title="Deutsche Sender",Pluto TV Romance
-https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
 #EXTINF:-1 tvg-id="PlutoTVSciFi.de@DACH" tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" group-title="Deutsche Sender",Pluto TV Sci-Fi
 https://jmp2.uk/plu-60ed498c4248a400077c0b9d.m3u8
 #EXTINF:-1 tvg-id="PlutoTVScience.de@DACH" tvg-logo="https://images.pluto.tv/channels/5d767b4889bca2ce7b73ef2e/colorLogoPNG.png" group-title="Deutsche Sender",Pluto TV Science
@@ -443,6 +437,8 @@ https://jmp2.uk/plu-646b1438e94c3800082a8cff.m3u8
 https://jmp2.uk/plu-6576c20fb3801200084786c9.m3u8
 #EXTINF:-1 tvg-id="SpongeBobSchwammkopf.de@DACH" tvg-logo="https://images.pluto.tv/channels/5d00e8adaab96b5635b2a005/colorLogoPNG.png" group-title="Deutsche Sender",SpongeBob Schwammkopf (720p)
 https://jmp2.uk/plu-5d00e8adaab96b5635b2a005.m3u8
+#EXTINF:-1 tvg-id="SRFernsehen.de" group-title="Deutsche Sender",SR
+https://srfs.akamaized.net/hls/live/689649/srfsgeo/index.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheNextGeneration.de@DACH" tvg-logo="https://images.pluto.tv/channels/69776ce979545c21a1220bff/colorLogoPNG_1769434849537.png" group-title="Deutsche Sender",Star Trek: The Next Generation
 https://jmp2.uk/plu-69776ce979545c21a1220bff.m3u8
 #EXTINF:-1 tvg-id="StarTrekTheOriginalSeries.de@DACH" tvg-logo="https://images.pluto.tv/channels/69776b58036e883f39e5ab8a/colorLogoPNG_1769434091096.png" group-title="Deutsche Sender",Star Trek: The Original Series
@@ -517,8 +513,12 @@ https://streaming13.huberwebmedia.at/LiveApp/streams/985585225397790082777809.m3
 https://oe24.mdn.ors.at/live/eds/oe24tv_hd/hls_nodrm/oe24tv_hd-nodrm.m3u8
 #EXTINF:-1 tvg-id="Okto.at@SD" tvg-logo="https://i.imgur.com/9XfhgbS.png" group-title="Österreichische Sender",Okto TV (1080p)
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVHaialarm.de@DACH" tvg-logo="https://images.pluto.tv/channels/69b015c5d29cc97de7da4af8/colorLogoPNG_1779802132594.png" group-title="Österreichische Sender",Pluto TV Haialarm
-https://jmp2.uk/plu-69b015c5d29cc97de7da4af8.m3u8
+#EXTINF:-1 tvg-id="ORFIII.at@HD" group-title="Österreichische Sender",ORF III HD (720p)
+https://orf3.mdn.ors.at/orf/orf3/qxa/manifest.m3u8
+#EXTINF:-1 tvg-id="PlutoTVNature.de@DACH" tvg-logo="https://images.pluto.tv/channels/5be1c3f9851dd5632e2c91b2/colorLogoPNG.png" group-title="Österreichische Sender",Pluto TV Nature
+https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
+#EXTINF:-1 tvg-id="PlutoTVRomance.de@DACH" tvg-logo="https://images.pluto.tv/channels/5dc287ce3086a20009f5024c/colorLogoPNG.png" group-title="Österreichische Sender",Pluto TV Romance
+https://jmp2.uk/plu-5dc287ce3086a20009f5024c.m3u8
 #EXTINF:-1 tvg-id="R9.at" group-title="Österreichische Sender",R9
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RedBullTV.at@SD" group-title="Österreichische Sender",Red Bull TV
@@ -537,8 +537,6 @@ https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/
 http://iptv.rtv-ooe.at/stream.m3u8
 #EXTINF:-1 tvg-id="SchladmingDachsteinTV.at@SD" group-title="Österreichische Sender",Schladming-Dachstein TV
 https://m317.video-stream-hosting.de/gzSoftware-live/_definst_/smil:livestream.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="SteiermarkTV.at@SD" group-title="Österreichische Sender",Steiermark TV
-https://h056.video-stream-hosting.de/easycast8-live/_definst_/mp4:livestreamhd4/playlist.m3u8?ref=
 #EXTINF:-1 tvg-id="SwamijiTVAmerican.at@SD" group-title="Österreichische Sender",Swamiji TV American (1080p) [Not 24/7]
 https://stream.swamiji.tv/YogaIPTV/smil:YogaStreamUS.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="SwamijiTVAustralian.at@SD" group-title="Österreichische Sender",Swamiji TV Australian (1080p) [Not 24/7]
